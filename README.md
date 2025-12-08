@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call corn that joins the army? Kernel.
+> What do you call a troublesome Canadian high schooler? A poutine.
 
 <!-- END -->
 
