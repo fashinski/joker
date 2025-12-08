@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a pirate pay for his corn? A buccaneer!
+> I burned 2000 calories today, I left my food in the oven for too long.
 
 <!-- END -->
 
