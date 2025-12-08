@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does Napoleon keep his armies? In his sleevies.
+> Remember, the best angle to approach a problem from is the "try" angle.
 
 <!-- END -->
 
