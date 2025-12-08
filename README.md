@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a pig that knows karate? A pork chop!
+> Past, present, and future walked into a bar.... It was tense.
 
 <!-- END -->
 
