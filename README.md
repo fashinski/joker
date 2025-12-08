@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Waldo only wear stripes? Because he doesn't want to be spotted.
+> What do you call a bear with no teeth? A gummy bear!
 
 <!-- END -->
 
