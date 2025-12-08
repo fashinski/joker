@@ -2,7 +2,10 @@ on:
   push:
     branches:
     - main
-     
+
+permissions:
+  contents: write
+
 jobs:
   joke:
     name: Tell me a joke
