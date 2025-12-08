@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Chances are if you' ve seen one shopping center, you've seen a mall.
+> I considered building the patio by myself. But I didn't have the stones.
 
 <!-- END -->
 
