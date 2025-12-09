@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> This furniture store keeps emailing me, all I wanted was one night stand!
+> I tried to write a chemistry joke, but could never get a reaction.
 
 <!-- END -->
 
