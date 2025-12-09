@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are mummys scared of vacation? They're afraid to unwind.
+> Why did the kid cross the playground? To get to the other slide.
 
 <!-- END -->
 
