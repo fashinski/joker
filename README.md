@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a snake who builds houses? A boa constructor!
+> What did the 0 say to the 8? Nice belt.
 
 <!-- END -->
 
