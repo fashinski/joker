@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> In my career as a lumberjack I cut down exactly 52,487 trees. I know because I kept a log.
+> Why was Santa's little helper feeling depressed? Because he has low elf esteem.
+
 
 <!-- END -->
 
