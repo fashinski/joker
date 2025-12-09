@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I wouldn't buy anything with velcro. It's a total rip-off.
+> Why do mathematicians hate the U.S.? Because it's indivisible.
 
 <!-- END -->
 
