@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When does a joke become a dad joke? When it becomes apparent.
+> I went to the store to pick up eight cans of sprite... when I got home I realized I'd only picked seven up
 
 <!-- END -->
 
