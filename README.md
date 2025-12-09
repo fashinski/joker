@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the kid cross the playground? To get to the other slide.
+> This morning I was wondering where the sun was, but then it dawned on me.
 
 <!-- END -->
 
