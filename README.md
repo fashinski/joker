@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My wife said I was immature. So I told her to get out of my fort.
+> In my career as a lumberjack I cut down exactly 52,487 trees. I know because I kept a log.
 
 <!-- END -->
 
