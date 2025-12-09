@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the strawberry sad? Its parents were in a jam.
+> Whereâs the bin? Dad: I havenât been anywhere!
 
 <!-- END -->
 
