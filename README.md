@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> This morning I was wondering where the sun was, but then it dawned on me.
+> Where did Captain Hook get his hook? From a second hand store.
 
 <!-- END -->
 
