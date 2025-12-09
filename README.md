@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the kid cross the playground? To get to the other slide.
+> Why do wizards clean their teeth three times a day? To prevent bat breath!
 
 <!-- END -->
 
