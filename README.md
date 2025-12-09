@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to the store to pick up eight cans of sprite... when I got home I realized I'd only picked seven up
+> What is the tallest building in the world? The library â itâs got the most stories!
 
 <!-- END -->
 
