@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a scientist freshen their breath? With experi-mints!
+> Want to hear a chimney joke? Got stacks of em! First one's on the house
 
 <!-- END -->
 
