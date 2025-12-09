@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two peanuts were walking down the street. One was a salted.
+> I won an argument with a weather forecaster once. His logic was cloudy...
 
 <!-- END -->
 
