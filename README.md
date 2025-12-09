@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Leather is great for sneaking around because it's made of hide.
+> How do you make a hankie dance? Put a little boogie in it.
 
 <!-- END -->
 
