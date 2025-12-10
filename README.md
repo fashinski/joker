@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.
+> Why did the burglar hang his mugshot on the wall? To prove that he was framed!
 
 <!-- END -->
 
