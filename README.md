@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The great thing about stationery shops is they're always in the same place...
+> They tried to make a diamond shaped like a duck. It quacked under the pressure.
 
 <!-- END -->
 
