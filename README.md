@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the traffic light say to the car as it passed? "Don't look I'm changing!"
+> If I could name myself after any Egyptian god, I'd be Set.
 
 <!-- END -->
 
