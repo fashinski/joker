@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If I could name myself after any Egyptian god, I'd be Set.
+> What did the ocean say to the beach? Thanks for all the sediment.
 
 <!-- END -->
 
