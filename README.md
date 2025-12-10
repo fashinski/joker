@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make Lady Gaga cry? Poker face. 
+> Why did the octopus beat the shark in a fight? Because it was well armed.
 
 <!-- END -->
 
