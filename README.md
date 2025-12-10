@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If a child refuses to sleep during nap time, are they guilty of resisting a rest?
+> What has ears but cannot hear? A field of corn.
 
 <!-- END -->
 
