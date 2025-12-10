@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the octopus beat the shark in a fight? Because it was well armed.
+> A man got hit in the head with a can of Coke, but he was alright because it was a soft drink.
 
 <!-- END -->
 
