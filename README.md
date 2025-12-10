@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Shout out to my grandma, that's the only way she can hear.
+> Did you hear about the guy whose whole left side was cut off? He's all right now.
 
 <!-- END -->
 
