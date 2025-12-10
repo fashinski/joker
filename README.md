@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was Santa's little helper feeling depressed? Because he has low elf esteem.
-
+> Why did the banana go to the doctor? He was not "peeling" well.
 
 <!-- END -->
 
