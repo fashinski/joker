@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Some people eat light bulbs. They say it's a nice light snack.
+> If a child refuses to sleep during nap time, are they guilty of resisting a rest?
 
 <!-- END -->
 
