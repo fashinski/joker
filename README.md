@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the clown have neck pain? - Because he slept funny
+> I was wondering why the frisbee was getting bigger, then it hit me.
 
 <!-- END -->
 
