@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is Peter Pan always flying? Because he Neverlands.
+> Ever wondered why bees hum? It's because they don't know the words.
 
 <!-- END -->
 
