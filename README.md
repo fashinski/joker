@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I am so good at sleeping I can do it with my eyes closed!
+> I really want to buy one of those supermarket checkout dividers, but the cashier keeps putting it back.
 
 <!-- END -->
 
