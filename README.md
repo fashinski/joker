@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.
+> A man tried to sell me a coffin today. I told him that's the last thing I need.
 
 <!-- END -->
 
