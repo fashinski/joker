@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do locomotives know where they're going? Lots of training
+> How do you fix a broken pizza? With tomato paste.
 
 <!-- END -->
 
