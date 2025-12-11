@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a cow with no legs? Ground beef.
+> What did the pirate say on his 80th birthday? Aye Matey!
 
 <!-- END -->
 
