@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the hat say to the scarf?
-You can hang around. I'll just go on ahead.
-
+> Why is it so windy inside an arena? All those fans.
 
 <!-- END -->
 
