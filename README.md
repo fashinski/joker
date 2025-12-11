@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Milk is also the fastest liquid on earth â its pasteurized before you even see it
+> Why are oranges the smartest fruit? Because they are made to concentrate. 
 
 <!-- END -->
 
