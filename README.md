@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Someone asked me to name two structures that hold water. I said "Well dam"
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
