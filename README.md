@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If I could name myself after any Egyptian god, I'd be Set.
+> What did one plate say to the other plate? Dinner is on me!
 
 <!-- END -->
 
