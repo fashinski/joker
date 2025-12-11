@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When will the little snake arrive? I don't know but he won't be long...
+> Why did the man put his money in the freezer? He wanted cold hard cash!
 
 <!-- END -->
 
