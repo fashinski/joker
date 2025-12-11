@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one wall say to the other wall? I'll meet you at the corner!
+> What do bees do after they are married? They go on a honeymoon.
 
 <!-- END -->
 
