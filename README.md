@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's black and white and read all over? The newspaper.
+> Why did the chicken get a penalty? For fowl play.
 
 <!-- END -->
 
