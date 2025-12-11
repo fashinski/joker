@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the shirt happy to hang around the tank top? Because it was armless
+> What's the difference between a seal and a sea lion?
+An ion! 
 
 <!-- END -->
 
