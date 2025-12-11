@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the man put his money in the freezer? He wanted cold hard cash!
+> Don't buy flowers at a monastery. Because only you can prevent florist friars.
 
 <!-- END -->
 
