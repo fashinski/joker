@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I don't trust stairs. They're always up to something.
+> Why was the shirt happy to hang around the tank top? Because it was armless
 
 <!-- END -->
 
