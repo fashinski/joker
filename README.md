@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?
+> I'd like to start a diet, but I've got too much on my plate right now.
 
 <!-- END -->
 
