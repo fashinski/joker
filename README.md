@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to attach two pieces of wood together... I totally nailed it!
+> What did the green grape say to the purple grape?
+BREATH!!
 
 <!-- END -->
 
