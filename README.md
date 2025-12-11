@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I fear for the calendar, its days are numbered.
-
+> Why do nurses carry around red crayons? Sometimes they need to draw blood.
 
 <!-- END -->
 
