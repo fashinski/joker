@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of magic do cows believe in? MOODOO.
+> To be Frank, I'd have to change my name.
 
 <!-- END -->
 
