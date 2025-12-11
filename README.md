@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To be Frank, I'd have to change my name.
+> Why did the half blind man fall in the well? Because he couldn't see that well!
 
 <!-- END -->
 
