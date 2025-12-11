@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is it so windy inside an arena? All those fans.
+> There's not really any training for garbagemen. They just pick things up as they go.
 
 <!-- END -->
 
