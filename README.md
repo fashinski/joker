@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I finally bought the limited edition Thesaurus that I've always wanted. When I opened it, all the pages were blank.
-I have no words to describe how angry I am.
+> I bought shoes from a drug dealer once. I don't know what he laced them with, but I was tripping all day.
 
 <!-- END -->
 
