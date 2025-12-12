@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are graveyards so noisy? Because of all the coffin.
+> Why are ghosts bad liars? Because you can see right through them!
 
 <!-- END -->
 
