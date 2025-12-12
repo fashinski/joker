@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the late tomato say to the early tomato? Iâll ketch up
+> How was the snow globe feeling after the storm? A little shaken.
 
 <!-- END -->
 
