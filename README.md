@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A man walks into a bar and orders helicopter flavor chips. The barman replies âsorry mate we only do plainâ
+> I won an argument with a weather forecaster once. His logic was cloudy...
 
 <!-- END -->
 
