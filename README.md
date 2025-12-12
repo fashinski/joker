@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the robot angry? Because someone kept pressing his buttons!
+> I boiled a funny bone last night and had a laughing stock
 
 <!-- END -->
 
