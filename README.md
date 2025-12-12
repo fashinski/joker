@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a boy who stopped digging holes? Douglas.
+> What did the ocean say to the shore? Nothing, it just waved.
 
 <!-- END -->
 
