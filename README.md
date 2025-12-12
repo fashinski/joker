@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I won an argument with a weather forecaster once. His logic was cloudy...
+> Why are ghosts bad liars? Because you can see right through them!
 
 <!-- END -->
 
