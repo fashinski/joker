@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What creature is smarter than a talking parrot? A spelling bee.
+> What did the pirate say on his 80th birthday? Aye Matey!
 
 <!-- END -->
 
