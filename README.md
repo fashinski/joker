@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Just watched a documentary about beaversâ¦ It was the best damn program Iâve ever seen.
+> Why do valley girls hang out in odd numbered groups? Because they can't even.
 
 <!-- END -->
 
