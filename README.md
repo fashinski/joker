@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the kidnapping at school? It's ok, he woke up.
+> What do you call a boy who stopped digging holes? Douglas.
 
 <!-- END -->
 
