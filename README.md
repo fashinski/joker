@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't a bicycle stand on its own? It's two-tired.
+> I used to be addicted to the hokey pokey, but I turned myself around.
 
 <!-- END -->
 
