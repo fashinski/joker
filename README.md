@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How was the snow globe feeling after the storm? A little shaken.
+> Bought a new jacket suit the other day and it burst into flames. Well, it was a blazer
 
 <!-- END -->
 
