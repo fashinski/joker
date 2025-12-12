@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do owls go to buy their baby clothes? The owlet malls.
+> A doll was recently found dead in a rice paddy. It's the only known instance of a nick nack paddy wack.
 
 <!-- END -->
 
