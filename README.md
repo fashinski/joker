@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fake noodle? An impasta.
+> Did you hear about the kidnapping at school? It's ok, he woke up.
 
 <!-- END -->
 
