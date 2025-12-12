@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why donât skeletons ever go trick or treating? Because they have nobody to go with.
+> What do you get when you cross a chicken with a skunk? A fowl smell!
 
 <!-- END -->
 
