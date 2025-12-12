@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the kid cross the playground? To get to the other slide.
+> What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!
 
 <!-- END -->
 
