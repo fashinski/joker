@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is this movie about? It is about 2 hours long.
+> Why do crabs never give to charity? Because theyâre shellfish.
 
 <!-- END -->
 
