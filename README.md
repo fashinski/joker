@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.
+> Someone broke into my house last night and stole my limbo trophy. How low can you go?
 
 <!-- END -->
 
