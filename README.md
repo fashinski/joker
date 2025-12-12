@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a guy lying on your doorstep? Matt.
+> What creature is smarter than a talking parrot? A spelling bee.
 
 <!-- END -->
 
