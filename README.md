@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is the new Kindle screen textured to look like paper? So you feel write at home.
+> What did the shy pebble wish for? That she was a little boulder.
 
 <!-- END -->
 
