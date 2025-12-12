@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a dyslexic poet write? Inverse.
+> Q: What did the spaghetti say to the other spaghetti?
+A: Pasta la vista, baby!
 
 <!-- END -->
 
