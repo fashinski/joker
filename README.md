@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the digital clock say to the grandfather clock? Look, no hands!
+> How do you tell the difference between a crocodile and an alligator? You will see one later and one in a while.
 
 <!-- END -->
 
