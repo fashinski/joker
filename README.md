@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the dog say to the two trees? Bark bark.
+> I once lost a banana at court but then I appealed. 
 
 <!-- END -->
 
