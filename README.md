@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's blue and not very heavy?  Light blue.
+> Where does batman go to the bathroom? The batroom.
 
 <!-- END -->
 
