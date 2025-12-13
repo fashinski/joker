@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does Darth Vader like his toast? On the dark side.
+> Why is the ocean always blue? Because the shore never waves back.
 
 <!-- END -->
 
