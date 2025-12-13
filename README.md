@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs brown and sounds like a bell? Dung!
+> What's the best thing about elevator jokes? They work on so many levels.
 
 <!-- END -->
 
