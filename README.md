@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I am terrified of elevators. Iâm going to start taking steps to avoid them.
+> Child: Dad, make me a sandwich. Dad: Poof! You're a sandwich.
 
 <!-- END -->
 
