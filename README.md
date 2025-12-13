@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The first time I got a universal remote control I thought to myself, "This changes everything"
+> What did the shy pebble wish for? That she was a little boulder.
 
 <!-- END -->
 
