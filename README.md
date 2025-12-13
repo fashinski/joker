@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My pet mouse 'Elvis' died last night. He was caught in a trap..
+> Hear about the new restaurant called Karma? Thereâs no menu: You get what you deserve.
 
 <!-- END -->
 
