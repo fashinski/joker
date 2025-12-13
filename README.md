@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I wanted to be a tailor but I didn't suit the job
+> I knew a guy who collected candy canes, they were all in mint condition
 
 <!-- END -->
 
