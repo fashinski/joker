@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How much does a hipster weigh? An instagram.
+> Why does Han Solo like gum? It's chewy!
 
 <!-- END -->
 
