@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call corn that joins the army? Kernel.
+> We all know where the Big Apple is but does anyone know where the Minneapolis?
 
 <!-- END -->
 
