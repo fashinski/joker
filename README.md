@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> *Reversing the car* "Ah, this takes me back"
+> What creature is smarter than a talking parrot? A spelling bee.
 
 <!-- END -->
 
