@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People who don't eat gluten are really going against the grain.
+> People are shocked to discover I have a police record but I love their greatest hits!
 
 <!-- END -->
 
