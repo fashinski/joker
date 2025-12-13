@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Can February march? No, but April may.
+> What don't watermelons get married? Because they cantaloupe.
 
 <!-- END -->
 
