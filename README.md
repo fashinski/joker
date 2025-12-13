@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make a hankie dance? Put a little boogie in it.
+> I wanted to be a tailor but I didn't suit the job
 
 <!-- END -->
 
