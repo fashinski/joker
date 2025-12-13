@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do computers and air conditioners have in common? They both become useless when you open windows.
+> I met this girl on a dating site and, I don't know, we just clicked.
 
 <!-- END -->
 
