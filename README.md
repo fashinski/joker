@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What creature is smarter than a talking parrot? A spelling bee.
+> Got a new suit recently made entirely of living plants. I wasnât sure at first, but itâs grown on me
 
 <!-- END -->
 
