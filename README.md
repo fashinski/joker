@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a dyslexic poet write? Inverse.
+> Donât interrupt someone working intently on a puzzle. Chances are, youâll hear some crosswords.
 
 <!-- END -->
 
