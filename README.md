@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What cheese can never be yours? Nacho cheese.
+> Every machine in the coin factory broke down all of a sudden without explanation. It just doesnât make any cents.
 
 <!-- END -->
 
