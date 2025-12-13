@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the fish say when it swam into a wall? Damn!
+> Yesterday a clown held a door open for me. I thought it was a nice jester.
 
 <!-- END -->
 
