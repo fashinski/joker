@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two silk worms had a race. They ended up in a tie.
+> What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
 
 <!-- END -->
 
