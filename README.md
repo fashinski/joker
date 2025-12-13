@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does batman go to the bathroom? The batroom.
+> Where do you learn to make banana splits? At sundae school.
 
 <!-- END -->
 
