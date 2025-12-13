@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you organize a space party? You planet.
+> Why are ghosts bad liars? Because you can see right through them!
 
 <!-- END -->
 
