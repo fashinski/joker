@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What don't watermelons get married? Because they cantaloupe.
+> To be Frank, I'd have to change my name.
 
 <!-- END -->
 
