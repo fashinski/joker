@@ -4,8 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the best way to carve?
-Whittle by whittle.
+> Hostess: Do you have a preference of where you sit?
+Dad: Down.
 
 <!-- END -->
 
