@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It's only a murder of crows if there's probable caws.
+> I won an argument with a weather forecaster once. His logic was cloudy...
 
 <!-- END -->
 
