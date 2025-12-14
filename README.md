@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Guy told me today he did not know what cloning is. I told him, "that makes 2 of us."
+> Why can't a bicycle stand on its own? It's two-tired.
 
 <!-- END -->
 
