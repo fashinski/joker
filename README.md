@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the hardest part about sky diving? The ground.
+> We all know where the Big Apple is but does anyone know where the Minneapolis?
 
 <!-- END -->
 
