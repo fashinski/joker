@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It takes guts to be an organ donor.
+> What kind of tree fits in your hand? A palm tree!
 
 <!-- END -->
 
