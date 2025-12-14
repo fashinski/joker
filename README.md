@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The word queue is ironic. It's just q with a bunch of silent letters waiting in line.
+> What did Yoda say when he saw himself in 4K? "HDMI"
 
 <!-- END -->
 
