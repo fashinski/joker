@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "What time is it?" I don't know... it keeps changing.
+> I was going to get a brain transplant, but I changed my mind
 
 <!-- END -->
 
