@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one nut say as he chased another nut?  I'm a cashew!
+> Dermatologists are always in a hurry. They spend all day making rash decisions. 
 
 <!-- END -->
 
