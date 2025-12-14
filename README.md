@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They tried to make a diamond shaped like a duck. It quacked under the pressure.
+> Cosmetic surgery used to be such a taboo subject.
+Now you can talk about Botox and nobody raises an eyebrow.
 
 <!-- END -->
 
