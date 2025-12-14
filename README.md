@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two dyslexics walk into a bra.
+> What is the leading cause of dry skin? Towels
 
 <!-- END -->
 
