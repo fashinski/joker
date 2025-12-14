@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be addicted to soap, but I'm clean now.
+> Why do we tell actors to âbreak a leg?â Because every play has a cast.
 
 <!-- END -->
 
