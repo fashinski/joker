@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of tree fits in your hand? A palm tree!
+> How do you fix a broken pizza? With tomato paste.
 
 <!-- END -->
 
