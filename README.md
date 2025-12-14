@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the dog say to the two trees? Bark bark.
+> Did you know that ghosts call their true love their ghoul-friend?
 
 <!-- END -->
 
