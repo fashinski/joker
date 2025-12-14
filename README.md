@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What animal is always at a game of cricket? A bat.
+> What did the left eye say to the right eye? Between us, something smells!
 
 <!-- END -->
 
