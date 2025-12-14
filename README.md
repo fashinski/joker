@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did Yoda say when he saw himself in 4K? "HDMI"
+> What did one snowman say to the other snow man? Do you smell carrot?
 
 <!-- END -->
 
