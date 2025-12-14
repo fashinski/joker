@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the campsite that got visited by Bigfoot? It got in tents.
+> I cut my finger chopping cheese, but I think that I may have grater problems.
 
 <!-- END -->
 
