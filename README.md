@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
+> My son is studying to be a surgeon, I just hope he makes the cut.
 
 <!-- END -->
 
