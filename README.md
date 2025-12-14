@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was going to get a brain transplant, but I changed my mind
+> My New Years resolution is to stop leaving things so late.
 
 <!-- END -->
 
