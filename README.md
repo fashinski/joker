@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are skeletons so calm? Because nothing gets under their skin.
+> Why was the robot angry? Because someone kept pressing his buttons!
 
 <!-- END -->
 
