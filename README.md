@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a female snake use for support? A co-Bra!
+> I boiled a funny bone last night and had a laughing stock
 
 <!-- END -->
 
