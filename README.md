@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work for an origami company but they folded.
+> If I could name myself after any Egyptian god, I'd be Set.
 
 <!-- END -->
 
