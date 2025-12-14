@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the leading cause of dry skin? Towels
+> Why are skeletons so calm? Because nothing gets under their skin.
 
 <!-- END -->
 
