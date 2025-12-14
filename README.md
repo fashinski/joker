@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a witch's favorite subject in school? Spelling!
+> I used to be addicted to soap, but I'm clean now.
 
 <!-- END -->
 
