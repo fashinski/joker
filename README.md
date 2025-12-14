@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do the trees get on the internet? They log on.
+> What do you call two barracuda fish?  A Pairacuda!
 
 <!-- END -->
 
