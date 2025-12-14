@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the tomato blush? Because it saw the salad dressing.
+> What did one nut say as he chased another nut?  I'm a cashew!
 
 <!-- END -->
 
