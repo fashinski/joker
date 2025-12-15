@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> An apple a day keeps the bullies away. If you throw it hard enough.
+>  I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
+
+
 
 <!-- END -->
 
