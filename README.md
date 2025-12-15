@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do locomotives know where they're going? Lots of training
+> How do you make Lady Gaga cry? Poker face. 
 
 <!-- END -->
 
