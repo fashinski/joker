@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make Lady Gaga cry? Poker face. 
+> What do you call a group of disorganized cats? A cat-tastrophe.
 
 <!-- END -->
 
