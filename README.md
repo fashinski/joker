@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has three letters and starts with gas? A Car.
+> What do you call a beehive without the b's? An eehive.
 
 <!-- END -->
 
