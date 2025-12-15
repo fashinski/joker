@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâve got this disease where I canât stop making airport puns. The doctor says it terminal.
+> My wife said I was immature. So I told her to get out of my fort.
 
 <!-- END -->
 
