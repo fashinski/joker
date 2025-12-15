@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a pirate pay for his corn? A buccaneer!
+> What did the green grape say to the purple grape?
+BREATH!!
 
 <!-- END -->
 
