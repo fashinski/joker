@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Camping is intense.
+> A steak pun is a rare medium well done.
 
 <!-- END -->
 
