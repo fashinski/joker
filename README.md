@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dermatologists are always in a hurry. They spend all day making rash decisions. 
+> What do computers and air conditioners have in common? They both become useless when you open windows.
 
 <!-- END -->
 
