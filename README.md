@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I invented a new word! Plagiarism!
+> Waking up this morning was an eye-opening experience.
 
 <!-- END -->
 
