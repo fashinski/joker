@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> âHold on, I have something in my shoeâ  âIâm pretty sure itâs a footâ
+> Someone broke into my house last night and stole my limbo trophy. How low can you go?
 
 <!-- END -->
 
