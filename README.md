@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What concert costs only 45 cents? 50 cent featuring Nickelback.
+> An apple a day keeps the bullies away. If you throw it hard enough.
 
 <!-- END -->
 
