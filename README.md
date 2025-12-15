@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You know what they say about cliffhangers...
+> I'd like to start a diet, but I've got too much on my plate right now.
 
 <!-- END -->
 
