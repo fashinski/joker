@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get if you put a duck in a cement mixer? Quacks in the pavement.
+> Did you hear about the two thieves who stole a calendar? They each got six months.
 
 <!-- END -->
 
