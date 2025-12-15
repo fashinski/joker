@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Every morning when I go out, I get hit by bicycle. Every morning!  It's a vicious cycle.
+> A book just fell on my head. I only have my shelf to blame.
 
 <!-- END -->
 
