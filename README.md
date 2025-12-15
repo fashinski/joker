@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
+> Why do wizards clean their teeth three times a day? To prevent bat breath!
 
 <!-- END -->
 
