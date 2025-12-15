@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Waking up this morning was an eye-opening experience.
+> What do you do when your bunny gets wet? You get your hare dryer.
 
 <!-- END -->
 
