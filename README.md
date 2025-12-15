@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Child: Dad, make me a sandwich. Dad: Poof! You're a sandwich.
+> I gave my friend 10 puns hoping that one of them would make him laugh. Sadly, no pun in ten did.
 
 <!-- END -->
 
