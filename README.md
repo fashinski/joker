@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do I look like? A JOKE MACHINE!?
+> I was shocked when I was diagnosed as colorblind... It came out of the purple.
 
 <!-- END -->
 
