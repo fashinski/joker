@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a snake who builds houses? A boa constructor!
+> What do you call someone with no nose? Nobody knows.
 
 <!-- END -->
 
