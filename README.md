@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the green grape say to the purple grape?
-BREATH!!
+> Where do sheep go to get their hair cut? The baa-baa shop.
 
 <!-- END -->
 
