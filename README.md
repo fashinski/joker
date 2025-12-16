@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.
+> I gave my friend 10 puns hoping that one of them would make him laugh. Sadly, no pun in ten did.
 
 <!-- END -->
 
