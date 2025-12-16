@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs the difference between an African elephant and an Indian elephant? About 5000 miles.
+> Did you know the first French fries weren't actually cooked in France? They were cooked in Greece.
 
 <!-- END -->
 
