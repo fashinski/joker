@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I decided to sell my Hooverâ¦ well it was just collecting dust.
+> What did one snowman say to the other snow man? Do you smell carrot?
 
 <!-- END -->
 
