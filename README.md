@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the doctor say to the gingerbread man who broke his leg? Try icing it.
+> Don't buy flowers at a monastery. Because only you can prevent florist friars.
 
 <!-- END -->
 
