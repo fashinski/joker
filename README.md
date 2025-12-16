@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why don't you find hippopotamuses hiding in trees?
-They're really good at it.
+> What happens to a frog's car when it breaks down? It gets toad.
 
 <!-- END -->
 
