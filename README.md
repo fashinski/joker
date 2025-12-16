@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Some people eat light bulbs. They say it's a nice light snack.
+> Why do wizards clean their teeth three times a day? To prevent bat breath!
 
 <!-- END -->
 
