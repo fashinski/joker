@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The urge to sing the Lion King song is just a whim away.
+> Some people eat light bulbs. They say it's a nice light snack.
 
 <!-- END -->
 
