@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A Sandwich walks into a bar, the bartender says âSorry, we donât serve food hereâ
+> What's a ninja's favorite type of shoes? Sneakers!
 
 <!-- END -->
 
