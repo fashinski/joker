@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was at the library and asked if they have any books on "paranoia", the librarian replied, "yes, they are right behind you"
+> Why don't sharks eat clowns?  Because they taste funny.
 
 <!-- END -->
 
