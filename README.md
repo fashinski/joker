@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I am so good at sleeping I can do it with my eyes closed!
+> I just got fired from a florist, apparently I took too many leaves.
 
 <!-- END -->
 
