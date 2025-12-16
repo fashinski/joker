@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My wife told me to rub the herbs on the meat for better flavor. That's sage advice.
+> I burned 2000 calories today, I left my food in the oven for too long.
 
 <!-- END -->
 
