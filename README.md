@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Thanks for explaining the word "many" to me. It means a lot.
+> An apple a day keeps the bullies away. If you throw it hard enough.
 
 <!-- END -->
 
