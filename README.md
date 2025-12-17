@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A Skeleton walked into a bar he said I need a beer and a mop
+> What do you call a group of disorganized cats? A cat-tastrophe.
 
 <!-- END -->
 
