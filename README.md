@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> This furniture store keeps emailing me, all I wanted was one night stand!
+> Did you hear about the cheese factory that exploded in France? There was nothing left but de Brie.
 
 <!-- END -->
 
