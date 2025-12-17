@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the grape do when he got stepped on? He let out a little wine.
+> Two peanuts were walking down the street. One was a salted
 
 <!-- END -->
 
