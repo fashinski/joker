@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I gave all my dead batteries away today, free of charge.
+> Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 <!-- END -->
 
