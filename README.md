@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the picture sent to prison? It was framed.
+> What did the grape do when he got stepped on? He let out a little wine.
 
 <!-- END -->
 
