@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the kid cross the playground? To get to the other slide.
+> Who did the wizard marry? His ghoul-friend
 
 <!-- END -->
 
