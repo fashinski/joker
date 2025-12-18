@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâm reading a book on the history of glue â canât put it down.
+> Why do bees have sticky hair? Because they use honey combs!
 
 <!-- END -->
 
