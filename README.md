@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the bread factory burning down? They say the business is toast.
+> Toasters were the first form of pop-up notifications.
 
 <!-- END -->
 
