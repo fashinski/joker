@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Which is the fastest growing city in the world? Dublin'
+> Why does Norway have barcodes on their battleships? So when they get back to port, they can Scandinavian.
 
 <!-- END -->
 
