@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars
+> Why did the knife dress up in a suit? Because it wanted to look sharp
 
 <!-- END -->
 
