@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I invented a new word! Plagiarism!
+> You know that cemetery up the road? People are dying to get in there.
 
 <!-- END -->
 
