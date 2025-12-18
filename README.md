@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the barber win the race? He took a short cut.
+> What do you call a guy lying on your doorstep? Matt.
 
 <!-- END -->
 
