@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What was a more important invention than the first telephone? The second one.
+> How do you get a baby alien to sleep?  You rocket.
 
 <!-- END -->
 
