@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You know that cemetery up the road? People are dying to get in there.
+> We all know where the Big Apple is but does anyone know where the Minneapolis?
 
 <!-- END -->
 
