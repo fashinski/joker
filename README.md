@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Writing with a broken pencil is pointless.
+> Have you ever heard of a music group called Cellophane? They mostly wrap.
 
 <!-- END -->
 
