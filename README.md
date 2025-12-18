@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a duck that gets all A's? A wise quacker.
+> A man walks into a bar and orders helicopter flavor chips. The barman replies âsorry mate we only do plainâ
 
 <!-- END -->
 
