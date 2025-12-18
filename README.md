@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When is a door not a door? When it's ajar.
+> Did you hear about the bread factory burning down? They say the business is toast.
 
 <!-- END -->
 
