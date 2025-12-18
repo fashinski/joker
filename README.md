@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.
+> Don't buy flowers at a monastery. Because only you can prevent florist friars.
 
 <!-- END -->
 
