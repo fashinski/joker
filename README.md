@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Remember, the best angle to approach a problem from is the "try" angle.
+> What creature is smarter than a talking parrot? A spelling bee.
 
 <!-- END -->
 
