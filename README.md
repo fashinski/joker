@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What biscuit does a short person like? Shortbread. 
+> Why do you never see elephants hiding in trees? Because they're so good at it.
 
 <!-- END -->
 
