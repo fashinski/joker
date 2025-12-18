@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.
+> How do you find Will Smith in the snow?  Look for fresh prints.
 
 <!-- END -->
 
