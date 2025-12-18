@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What musical instrument is found in the bathroom? A tuba toothpaste.
+> What kind of dinosaur loves to sleep? A stega-snore-us.
 
 <!-- END -->
 
