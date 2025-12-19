@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the feline fail the lie detector test? Because he be lion.
+> Which is the fastest growing city in the world? Dublin'
 
 <!-- END -->
 
