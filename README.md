@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fly without wings? A walk.
+> What do you do when you see a space man?
+Park your car, man.
 
 <!-- END -->
 
