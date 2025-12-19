@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Who did the wizard marry? His ghoul-friend
+> Did you know that protons have mass? I didn't even know they were catholic.
 
 <!-- END -->
 
