@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A book just fell on my head. I only have my shelf to blame.
+> A termite walks into a bar and asks âIs the bar tender here?â
 
 <!-- END -->
 
