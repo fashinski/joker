@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a penguin build itâs house? Igloos it together.
+> Ever wondered why bees hum? It's because they don't know the words.
 
 <!-- END -->
 
