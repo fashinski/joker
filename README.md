@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of bagel can fly? A plain bagel.
+> Did you hear about the kidnapping at school? It's ok, he woke up.
 
 <!-- END -->
 
