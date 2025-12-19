@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you know that protons have mass? I didn't even know they were catholic.
+> How does Darth Vader like his toast? On the dark side.
 
 <!-- END -->
 
