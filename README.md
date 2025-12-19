@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Velcroâ¦ What a rip-off.
+> Why was the robot angry? Because someone kept pressing his buttons!
 
 <!-- END -->
 
