@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do hens stay fit? They always egg-cercise!
+> Why do cows wear bells? Because their horns don't work.
 
 <!-- END -->
 
