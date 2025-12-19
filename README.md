@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I decided to sell my Hooverâ¦ well it was just collecting dust.
+> Why doesn't the Chimney-Sweep call out sick from work? Because he's used to working with a flue.
 
 <!-- END -->
 
