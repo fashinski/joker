@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to hate facial hair, but then it grew on me.
+> I decided to sell my Hooverâ¦ well it was just collecting dust.
 
 <!-- END -->
 
