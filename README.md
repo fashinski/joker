@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the least spoken language in the world?
-Sign Language
+> Why is there always a gate around cemeteries? Because people are always dying to get in.
 
 <!-- END -->
 
