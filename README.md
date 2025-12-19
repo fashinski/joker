@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are skeletons so calm? Because nothing gets under their skin.
+> I met this girl on a dating site and, I don't know, we just clicked.
 
 <!-- END -->
 
