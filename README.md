@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was it called the dark ages? Because of all the knights. 
+> To the person who stole my anti-depressant pills: I hope you're happy now.
 
 <!-- END -->
 
