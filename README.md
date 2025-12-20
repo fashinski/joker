@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Hostess: Do you have a preference of where you sit?
-Dad: Down.
+> Iâm on a whiskey diet. Iâve lost three days already.
 
 <!-- END -->
 
