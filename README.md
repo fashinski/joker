@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'll tell you what often gets over looked... garden fences.
+> Why did the m&m go to school? Because it wanted to be a Smartie!
 
 <!-- END -->
 
