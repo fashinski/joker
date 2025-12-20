@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The shovel was a ground-breaking invention.
+> Why do mathematicians hate the U.S.? Because it's indivisible.
 
 <!-- END -->
 
