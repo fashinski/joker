@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I asked a frenchman if he played video games. He said "Wii"
+> I accidentally drank a bottle of invisible ink. Now Iâm in hospital, waiting to be seen.
 
 <!-- END -->
 
