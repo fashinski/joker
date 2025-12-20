@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> As I suspected, someone has been adding soil to my garden. The plot thickens.
+> Why was Santa's little helper feeling depressed? Because he has low elf esteem.
+
 
 <!-- END -->
 
