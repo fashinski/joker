@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They say Dodger Stadium can hold up to fifty-six thousand people, but that is just a ballpark figure.
+> How do you organize a space party? You planet.
 
 <!-- END -->
 
