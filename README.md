@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you organize a space party? You planet.
+> What happens to a frog's car when it breaks down? It gets toad.
 
 <!-- END -->
 
