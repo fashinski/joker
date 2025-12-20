@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an eagle who can play the piano? Talonted!
+> I asked a frenchman if he played video games. He said "Wii"
 
 <!-- END -->
 
