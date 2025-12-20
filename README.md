@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I accidentally drank a bottle of invisible ink. Now Iâm in hospital, waiting to be seen.
+> "I'll call you later." Don't call me later, call me Dad.
 
 <!-- END -->
 
