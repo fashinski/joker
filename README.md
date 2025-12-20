@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you heard the story about the magic tractor? It drove down the road and turned into a field.
+> I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.
 
 <!-- END -->
 
