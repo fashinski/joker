@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was Santa's little helper feeling depressed? Because he has low elf esteem.
-
+> I have kleptomania, but when it gets bad, I take something for it.
 
 <!-- END -->
 
