@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a beehive without the b's? An eehive.
+> What is a tornado's favorite game to play? Twister!
 
 <!-- END -->
 
