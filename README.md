@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I wouldn't buy anything with velcro. It's a total rip-off.
+> Did you hear about the runner who was criticized? He just took it in stride
 
 <!-- END -->
 
