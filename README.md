@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs E.T. short for? Heâs only got little legs.
+> What did one snowman say to the other snow man? Do you smell carrot?
 
 <!-- END -->
 
