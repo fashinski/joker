@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the Mexican train killer? He had loco motives
+> I'll tell you what often gets over looked... garden fences.
 
 <!-- END -->
 
