@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Bad at golf? Join the club.
+> Whatâs E.T. short for? Heâs only got little legs.
 
 <!-- END -->
 
