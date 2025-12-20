@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Archaeology really is a career in ruins.
+> which flower is most fierce? Dandelion
 
 <!-- END -->
 
