@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Which is the fastest growing city in the world? Dublin'
+> How does the moon cut his hair? Eclipse it.
 
 <!-- END -->
 
