@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the barber win the race? He took a short cut.
+> How was the snow globe feeling after the storm? A little shaken.
 
 <!-- END -->
 
