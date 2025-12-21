@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a witch's favorite subject in school? Spelling!
+> A termite walks into a bar and asks âIs the bar tender here?â
 
 <!-- END -->
 
