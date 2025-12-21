@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an alligator in a vest? An in-vest-igator!
+> Why does a chicken coop only have two doors? Because if it had four doors it would be a chicken sedan.
 
 <!-- END -->
 
