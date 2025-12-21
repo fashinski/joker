@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> R.I.P. boiled water. You will be mist.
+> I used to work in a shoe recycling shop. It was sole destroying.
 
 <!-- END -->
 
