@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work in a shoe recycling shop. It was sole destroying.
+> What do you call a boy who stopped digging holes? Douglas.
 
 <!-- END -->
 
