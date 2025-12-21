@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bees hum? Because they don't know the words.
+> What kind of tree fits in your hand? A palm tree!
 
 <!-- END -->
 
