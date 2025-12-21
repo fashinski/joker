@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What time did the man go to the dentist? Tooth hurt-y.
+> Where did Captain Hook get his hook? From a second hand store.
 
 <!-- END -->
 
