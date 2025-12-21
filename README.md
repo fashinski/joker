@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.
+> "Hey, dad, did you get a haircut?" "No, I got them all cut."
 
 <!-- END -->
 
