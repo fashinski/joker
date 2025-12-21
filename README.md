@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I invented a new word! Plagiarism!
+> How do robots eat guacamole? With computer chips.
 
 <!-- END -->
 
