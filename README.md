@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the piece of bread say to the knife? Butter me up.
+> Why did the knife dress up in a suit? Because it wanted to look sharp
 
 <!-- END -->
 
