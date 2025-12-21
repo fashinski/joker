@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You know what they say about cliffhangers...
+> What did the calculator say to the student? You can count on me.
 
 <!-- END -->
 
