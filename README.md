@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are mummys scared of vacation? They're afraid to unwind.
+> You know that cemetery up the road? People are dying to get in there.
 
 <!-- END -->
 
