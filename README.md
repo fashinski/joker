@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> âDoctor, Iâve broken my arm in several placesâ Doctor âWell donât go to those places.â
+> I was thinking about moving to Moscow but there is no point Russian into things.
 
 <!-- END -->
 
