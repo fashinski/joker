@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do hens stay fit? They always egg-cercise!
+> What did the fish say when it swam into a wall? Damn!
 
 <!-- END -->
 
