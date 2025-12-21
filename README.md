@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the coffee file a police report? It got mugged.
+> What lies at the bottom of the ocean and twitches? A nervous wreck.
 
 <!-- END -->
 
