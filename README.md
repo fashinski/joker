@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a rabbit with a water hose? Hare spray.
+> Why is the new Kindle screen textured to look like paper? So you feel write at home.
 
 <!-- END -->
 
