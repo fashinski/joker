@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do sheep go to get their hair cut? The baa-baa shop.
+> Why does Superman get invited to dinners? Because he is a Supperhero.
 
 <!-- END -->
 
