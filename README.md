@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's orange and sounds like a parrot? A Carrot.
+> This morning I was wondering where the sun was, but then it dawned on me.
 
 <!-- END -->
 
