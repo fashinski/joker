@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!
+> A Sandwich walks into a bar, the bartender says âSorry, we donât serve food hereâ
 
 <!-- END -->
 
