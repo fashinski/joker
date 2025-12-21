@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a dictionary on drugs? High definition.
+> This morning I was wondering where the sun was, but then it dawned on me.
 
 <!-- END -->
 
