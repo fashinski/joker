@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If at first you don't succeed, sky diving is not for you!
+> What did one snowman say to the other snow man? Do you smell carrot?
 
 <!-- END -->
 
