@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the fish say when it swam into a wall? Damn!
+> What do you get when you cross a rabbit with a water hose? Hare spray.
 
 <!-- END -->
 
