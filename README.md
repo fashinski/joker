@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> This morning I was wondering where the sun was, but then it dawned on me.
+> Someone broke into my house last night and stole my limbo trophy. How low can you go?
 
 <!-- END -->
 
