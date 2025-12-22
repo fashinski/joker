@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to a book store and asked the saleswoman where the Self Help section was, she said if she told me it would defeat the purpose.
+> I knew i shouldnât have ate that seafood. Because now iâm feeling a littleâ¦ Eel
 
 <!-- END -->
 
