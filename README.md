@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the tree go to the dentist? It needed a root canal.
+> Iâve just been reading a book about anti-gravity, itâs impossible to put down!
 
 <!-- END -->
 
