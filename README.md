@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A Skeleton walked into a bar he said I need a beer and a mop
+> I cut my finger chopping cheese, but I think that I may have grater problems.
 
 <!-- END -->
 
