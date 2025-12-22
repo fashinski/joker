@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâve deleted the phone numbers of all the Germans I know from my mobile phone. Now itâs Hans free.
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
