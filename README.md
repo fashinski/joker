@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the cheese who saved the world? It was Legend-dairy!
+> What did the late tomato say to the early tomato? Iâll ketch up
 
 <!-- END -->
 
