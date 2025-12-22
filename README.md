@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> This furniture store keeps emailing me, all I wanted was one night stand!
+> What's large, grey, and doesn't matter?
+An irrelephant.
+
 
 <!-- END -->
 
