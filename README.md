@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do bees do after they are married? They go on a honeymoon.
+> Did you hear about the cheese who saved the world? It was Legend-dairy!
 
 <!-- END -->
 
