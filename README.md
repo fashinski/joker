@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> âPut the cat outâ â¦ âI didnât realize it was on fire
+> Astronomers got tired watching the moon go around the earth for 24 hours. They decided to call it a day.
 
 <!-- END -->
 
