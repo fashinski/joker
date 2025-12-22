@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are fish so smart? Because they live in schools!
+> Conjunctivitis.com â now thatâs a site for sore eyes.
 
 <!-- END -->
 
