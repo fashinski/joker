@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâm on a whiskey diet. Iâve lost three days already.
+> Why are basketball players messy eaters? Because they are always dribbling.
 
 <!-- END -->
 
