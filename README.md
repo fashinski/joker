@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did Yoda say when he saw himself in 4K? "HDMI"
+> âPut the cat outâ â¦ âI didnât realize it was on fire
 
 <!-- END -->
 
