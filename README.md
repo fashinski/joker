@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Our wedding was so beautiful, even the cake was in tiers.
+> What kind of pants do ghosts wear? Boo jeans.
 
 <!-- END -->
 
