@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's black and white and read all over? The newspaper.
+> There's not really any training for garbagemen. They just pick things up as they go.
 
 <!-- END -->
 
