@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.
+> I burned 2000 calories today, I left my food in the oven for too long.
 
 <!-- END -->
 
