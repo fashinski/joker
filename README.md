@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Writing with a broken pencil is pointless.
+> What is the best way to carve?
+Whittle by whittle.
 
 <!-- END -->
 
