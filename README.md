@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The best time on a clock is 6:30--hands down.
+> A farmer had 297 cows, when he rounded them up, he found he had 300
 
 <!-- END -->
 
