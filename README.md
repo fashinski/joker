@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I burned 2000 calories today, I left my food in the oven for too long.
+> Why does a chicken coop only have two doors? Because if it had four doors it would be a chicken sedan.
 
 <!-- END -->
 
