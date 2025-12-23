@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of music do planets listen to? Nep-tunes.
+> A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.
 
 <!-- END -->
 
