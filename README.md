@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A cannibal is someone who is fed up with people.
+> Why donât seagulls fly over the bay? Because then theyâd be bay-gulls!
 
 <!-- END -->
 
