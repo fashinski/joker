@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The biggest knight at King Arthur's round table was Sir Cumference. He acquired his size from eating too much pi.
+> A man is washing the car with his son. The son asks...... "Dad, canât you just use a sponge?"
 
 <!-- END -->
 
