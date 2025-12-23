@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fake noodle? An impasta.
+> I used to be addicted to the hokey pokey, but I turned myself around.
 
 <!-- END -->
 
