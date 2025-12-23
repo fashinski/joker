@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of magic do cows believe in? MOODOO.
+> What kind of music do planets listen to? Nep-tunes.
 
 <!-- END -->
 
