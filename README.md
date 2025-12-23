@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why donât seagulls fly over the bay? Because then theyâd be bay-gulls!
+> Why did the cookie cry?
+Because his mother was a wafer so long
 
 <!-- END -->
 
