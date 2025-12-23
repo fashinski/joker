@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the cookie cry?
-Because his mother was a wafer so long
+> Why did the girl smear peanut butter on the road? To go with the traffic jam.
 
 <!-- END -->
 
