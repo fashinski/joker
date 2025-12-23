@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Is there a hole in your shoe? Noâ¦ Then howâd you get your foot in it?
+> Did you hear about the cheese who saved the world? It was Legend-dairy!
 
 <!-- END -->
 
