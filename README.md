@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People are making apocalypse jokes like thereâs no tomorrow.
+> What do you call a pig that knows karate? A pork chop!
 
 <!-- END -->
 
