@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call your friend who stands in a hole? Phil.
+> Me and my mates are in a band called Duvet. We're a cover band.
 
 <!-- END -->
 
