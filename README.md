@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Our wedding was so beautiful, even the cake was in tiers.
+> I got fired from a florist, apparently I took too many leaves.
 
 <!-- END -->
 
