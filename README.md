@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the cheese who saved the world? It was Legend-dairy!
+> Why didn't the number 4 get into the nightclub? Because he is 2 square.
 
 <!-- END -->
 
