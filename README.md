@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> This is my step ladder. I never knew my real ladder.
+> Why did the m&m go to school? Because it wanted to be a Smartie!
 
 <!-- END -->
 
