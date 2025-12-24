@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the picture sent to prison? It was framed.
+> This is my step ladder. I never knew my real ladder.
 
 <!-- END -->
 
