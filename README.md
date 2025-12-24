@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you know the first French fries weren't actually cooked in France? They were cooked in Greece.
+> What happens to a frog's car when it breaks down? It gets toad.
 
 <!-- END -->
 
