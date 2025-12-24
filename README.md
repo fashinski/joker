@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a bear with no teeth? A gummy bear!
+> Astronomers got tired watching the moon go around the earth for 24 hours. They decided to call it a day.
 
 <!-- END -->
 
