@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was going to get a brain transplant, but I changed my mind
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
