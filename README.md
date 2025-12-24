@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Me and my mates are in a band called Duvet. We're a cover band.
+> Did you hear about the bread factory burning down? They say the business is toast.
 
 <!-- END -->
 
