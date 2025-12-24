@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do young cows eat lunch? In the calf-ateria.
+> I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 <!-- END -->
 
