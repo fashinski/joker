@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do you never see elephants hiding in trees? Because they're so good at it.
+> I accidentally took my cats meds last night. Donât ask meow.
 
 <!-- END -->
 
