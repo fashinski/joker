@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I always wanted to look into why I procrastinate, but I keep putting it off. 
+> What do you call a boomerang that won't come back? A stick.
 
 <!-- END -->
 
