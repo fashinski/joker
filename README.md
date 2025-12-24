@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To the guy who invented zero... thanks for nothing.
+> Why are basketball players messy eaters? Because they are always dribbling.
 
 <!-- END -->
 
