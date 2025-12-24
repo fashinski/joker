@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is worse then finding a worm in your Apple? Finding half a worm in your Apple.
+> Whenever the cashier at the grocery store asks my dad if he would like the milk in a bag he replies, âNo, just leave it in the carton!â
 
 <!-- END -->
 
