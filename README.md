@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When do doctors get angry? When they run out of patients.
+> Did you hear about the cheese who saved the world? It was Legend-dairy!
 
 <!-- END -->
 
