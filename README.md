@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the tree go to the dentist? It needed a root canal.
+> Why couldn't the lifeguard save the hippie? He was too far out, man.
 
 <!-- END -->
 
