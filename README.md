@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction.
+> The urge to sing the Lion King song is just a whim away.
 
 <!-- END -->
 
