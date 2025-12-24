@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the bread factory burning down? They say the business is toast.
+> What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
 
 <!-- END -->
 
