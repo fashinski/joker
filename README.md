@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What happens to a frog's car when it breaks down? It gets toad.
+> I had a dream that I was a muffler last night. I woke up exhausted!
 
 <!-- END -->
 
