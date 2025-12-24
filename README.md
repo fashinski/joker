@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a vampire's favorite fruit? A blood orange.
+> Why did the tree go to the dentist? It needed a root canal.
 
 <!-- END -->
 
