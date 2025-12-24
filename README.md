@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the tree go to the dentist? It needed a root canal.
+> What do you call an alligator in a vest? An in-vest-igator!
 
 <!-- END -->
 
