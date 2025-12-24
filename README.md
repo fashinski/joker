@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> This is my step ladder. I never knew my real ladder.
+> Why should you never trust a pig with a secret? Because it's bound to squeal.
 
 <!-- END -->
 
