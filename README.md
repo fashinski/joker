@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do bees go to the bathroom?  The BP station.
+> Why did the man put his money in the freezer? He wanted cold hard cash!
 
 <!-- END -->
 
