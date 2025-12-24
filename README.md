@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Want to hear my pizza joke? Never mind, it's too cheesy.
+> Just read a few facts about frogs. They were ribbiting.
 
 <!-- END -->
 
