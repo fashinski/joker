@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I started a new business making yachts in my attic this year...the sails are going through the roof
+> Why did the man run around his bed? Because he was trying to catch up on his sleep!
 
 <!-- END -->
 
