@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a criminal going down the stairs? Condescending
+> They say Dodger Stadium can hold up to fifty-six thousand people, but that is just a ballpark figure.
 
 <!-- END -->
 
