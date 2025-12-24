@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are basketball players messy eaters? Because they are always dribbling.
+> Why are ghosts bad liars? Because you can see right through them!
 
 <!-- END -->
 
