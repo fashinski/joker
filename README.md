@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs brown and sounds like a bell? Dung!
+> I considered building the patio by myself. But I didn't have the stones.
 
 <!-- END -->
 
