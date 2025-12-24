@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an old snowman? Water.
+> Breaking news! Energizer Bunny arrested â charged with battery.
 
 <!-- END -->
 
