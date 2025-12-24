@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are ghosts bad liars? Because you can see right through them!
+> Why did the man put his money in the freezer? He wanted cold hard cash!
 
 <!-- END -->
 
