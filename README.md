@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A bartender broke up with her boyfriend, but he kept asking her for another shot.
+> Why did the man put his money in the freezer? He wanted cold hard cash!
 
 <!-- END -->
 
