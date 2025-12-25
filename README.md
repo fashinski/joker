@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You know what they say about cliffhangers...
+> Why did the m&m go to school? Because it wanted to be a Smartie!
 
 <!-- END -->
 
