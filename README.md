@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I just broke my guitar. It's okay, I won't fret
+> What's a ninja's favorite type of shoes? Sneakers!
 
 <!-- END -->
 
