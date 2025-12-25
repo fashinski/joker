@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the sea say to the sand? "We have to stop meeting like this."
+> What did one snowman say to the other snow man? Do you smell carrot?
 
 <!-- END -->
 
