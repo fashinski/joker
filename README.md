@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the dog say to the two trees? Bark bark.
+> How many tickles does it take to tickle an octopus? Ten-tickles!
 
 <!-- END -->
 
