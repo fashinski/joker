@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Writing with a broken pencil is pointless.
+> My boss told me to have a good day. So I went home...
 
 <!-- END -->
 
