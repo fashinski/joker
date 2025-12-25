@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are pirates called pirates? Because they arrr!
+> I wish I could clean mirrors for a living. It's just something I can see myself doing.
 
 <!-- END -->
 
