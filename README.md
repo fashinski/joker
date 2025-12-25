@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They laughed when I said I wanted to be a comedian â theyâre not laughing now.
+> What did the digital clock say to the grandfather clock? Look, no hands!
 
 <!-- END -->
 
