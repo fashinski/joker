@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the man put his money in the freezer? He wanted cold hard cash!
+> Why is the new Kindle screen textured to look like paper? So you feel write at home.
 
 <!-- END -->
 
