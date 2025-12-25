@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do cats write notes?
-Scratch Paper!
+> Why should you never trust a pig with a secret? Because it's bound to squeal.
 
 <!-- END -->
 
