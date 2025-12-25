@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do cows not have toes? They lactose!
+> What is the least spoken language in the world?
+Sign Language
 
 <!-- END -->
 
