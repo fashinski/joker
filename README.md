@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fake noodle? An impasta.
+> Frankenstein enters a bodybuilding competition and finds he has seriously misunderstood the objective.
 
 <!-- END -->
 
