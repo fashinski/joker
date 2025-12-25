@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one snowman say to the other snow man? Do you smell carrot?
+> What did Michael Jackson name his denim store?    Billy Jeans!
 
 <!-- END -->
 
