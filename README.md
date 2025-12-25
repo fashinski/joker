@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a cow on a trampoline? A milk shake!
+> What kind of dinosaur loves to sleep? A stega-snore-us.
 
 <!-- END -->
 
