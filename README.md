@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of music do mummy's like? Rap
+> I decided to sell my Hooverâ¦ well it was just collecting dust.
 
 <!-- END -->
 
