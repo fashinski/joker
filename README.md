@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did Yoda say when he saw himself in 4K? "HDMI"
+> Why do pirates not know the alphabet? They always get stuck at "C".
 
 <!-- END -->
 
