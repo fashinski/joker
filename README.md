@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a duck that gets all A's? A wise quacker.
+> What did the sea say to the sand? "We have to stop meeting like this."
 
 <!-- END -->
 
