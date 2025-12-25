@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Egyptians claimed to invent the guitar, but they were such lyres.ï»¿
+> What did the drummer name her twin daughters? Anna One, Anna Two...
 
 <!-- END -->
 
