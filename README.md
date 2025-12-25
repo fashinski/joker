@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Itâs hard to explain puns to kleptomaniacs, because they take everything literally.
+> Yesterday a clown held a door open for me. I thought it was a nice jester.
 
 <!-- END -->
 
