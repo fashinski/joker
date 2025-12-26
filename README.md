@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a cow with no legs? Ground beef.
+> A termite walks into a bar and asks âIs the bar tender here?â
 
 <!-- END -->
 
