@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy.
+> What is the difference between ignorance and apathy?
+
+I don't know and I don't care.
 
 <!-- END -->
 
