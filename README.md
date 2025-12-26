@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a beehive without the b's? An eehive.
+> Did you hear about the new restaurant on the moon? The food is great, but thereâs just no atmosphere.
 
 <!-- END -->
 
