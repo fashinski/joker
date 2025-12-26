@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where did you learn to make ice cream? Sunday school.
+> As I suspected, someone has been adding soil to my garden. The plot thickens.
 
 <!-- END -->
 
