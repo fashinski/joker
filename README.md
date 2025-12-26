@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> which flower is most fierce? Dandelion
+> Hostess: Do you have a preference of where you sit?
+Dad: Down.
 
 <!-- END -->
 
