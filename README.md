@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are oranges the smartest fruit? Because they are made to concentrate. 
+> What do computers and air conditioners have in common? They both become useless when you open windows.
 
 <!-- END -->
 
