@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I asked a frenchman if he played video games. He said "Wii"
+> What don't watermelons get married? Because they cantaloupe.
 
 <!-- END -->
 
