@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I knew a guy who collected candy canes, they were all in mint condition
+> Is there a hole in your shoe? Noâ¦ Then howâd you get your foot in it?
 
 <!-- END -->
 
