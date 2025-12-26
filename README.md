@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Who did the wizard marry? His ghoul-friend
+> What did the late tomato say to the early tomato? Iâll ketch up
 
 <!-- END -->
 
