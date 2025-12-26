@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the late tomato say to the early tomato? Iâll ketch up
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
