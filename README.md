@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was thinking about moving to Moscow but there is no point Russian into things.
+> Why did the kid throw the clock out the window? He wanted to see time fly!
 
 <!-- END -->
 
