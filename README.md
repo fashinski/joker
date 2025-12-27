@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many bones are in the human hand? A handful of them.
+> Why was Pavlov's beard so soft?  Because he conditioned it.
 
 <!-- END -->
 
