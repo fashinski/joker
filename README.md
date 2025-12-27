@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Recent survey revealed 6 out of 7 dwarf's aren't happy.
+> Dad, can you put my shoes on? I don't think they'll fit me.
 
 <!-- END -->
 
