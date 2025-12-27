@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If I could name myself after any Egyptian god, I'd be Set.
+> What did one nut say as he chased another nut?  I'm a cashew!
 
 <!-- END -->
 
