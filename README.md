@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to hate facial hair, but then it grew on me.
+> A horse walks into a bar. The bar tender says "Hey." The horse says "Sure."
 
 <!-- END -->
 
