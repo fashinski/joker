@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars
+> Why did the octopus beat the shark in a fight? Because it was well armed.
 
 <!-- END -->
 
