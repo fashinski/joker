@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to hate facial hair, but then it grew on me.
+> Where do you take someone whoâs been injured in a peek-a-boo accident? To the I.C.U.
 
 <!-- END -->
 
