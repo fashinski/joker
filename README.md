@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I don't trust sushi, there's something fishy about it.
+> How does a dyslexic poet write? Inverse.
 
 <!-- END -->
 
