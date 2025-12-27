@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a crowd of chess players bragging about their wins in a hotel lobby? Chess nuts boasting in an open foyer.
+> Dad Iâm hungryâ â¦ âHi hungry Iâm dad
 
 <!-- END -->
 
