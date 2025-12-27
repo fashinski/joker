@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the fireman wear red, white, and blue suspenders? To hold his pants up.
+> What did the mountain climber name his son? Cliff.
 
 <!-- END -->
 
