@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do hamburgers go to dance? The meat-ball.
+> Why do wizards clean their teeth three times a day? To prevent bat breath!
 
 <!-- END -->
 
