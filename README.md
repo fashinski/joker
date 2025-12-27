@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A horse walks into a bar. The bar tender says "Hey." The horse says "Sure."
+> Pie is $2.50 in Jamaica and $3.00 in The Bahamas. These are the pie-rates of the Caribbean.
 
 <!-- END -->
 
