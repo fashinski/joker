@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the mountain climber name his son? Cliff.
+> Why was Pavlov's beard so soft?  Because he conditioned it.
 
 <!-- END -->
 
