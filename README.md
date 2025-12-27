@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Bad at golf? Join the club.
+> Why was ten scared of seven? Because seven ate nine.
 
 <!-- END -->
 
