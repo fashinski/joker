@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I ate a clock yesterday. It was so time consuming.
+> Yesterday a clown held a door open for me. I thought it was a nice jester.
 
 <!-- END -->
 
