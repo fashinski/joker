@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What was a more important invention than the first telephone? The second one.
+> I don't trust sushi, there's something fishy about it.
 
 <!-- END -->
 
