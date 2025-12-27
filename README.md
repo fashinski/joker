@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You can't run through a camp site. You can only ran, because it's past tents.
+> Why do you never see elephants hiding in trees? Because they're so good at it.
 
 <!-- END -->
 
