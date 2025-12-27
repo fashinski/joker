@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> what happens when you cross a sheep with a kangaroo ? A woolly jumper!
+> Why can't you use "Beef stew" as a password? Because it's not stroganoff.
 
 <!-- END -->
 
