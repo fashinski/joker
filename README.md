@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's black and white and read all over? The newspaper.
+> A magician was driving down the street and then he turned into a driveway.
 
 <!-- END -->
 
