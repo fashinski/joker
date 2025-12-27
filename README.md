@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was Pavlov's beard so soft?  Because he conditioned it.
+> what happens when you cross a sheep with a kangaroo ? A woolly jumper!
 
 <!-- END -->
 
