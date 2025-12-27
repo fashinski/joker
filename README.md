@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the grape do when he got stepped on? He let out a little wine.
+> Did you hear about the guy whose whole left side was cut off? He's all right now.
 
 <!-- END -->
 
