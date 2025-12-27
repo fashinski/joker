@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is no one friends with Dracula? Because he's a pain in the neck.
+> My first time using an elevator was an uplifting experience. The second time let me down.
 
 <!-- END -->
 
