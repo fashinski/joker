@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How are false teeth like stars? They come out at night!
+> Why are ghosts bad liars? Because you can see right through them!
 
 <!-- END -->
 
