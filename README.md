@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the dog say to the two trees? Bark bark.
+> Why do wizards clean their teeth three times a day? To prevent bat breath!
 
 <!-- END -->
 
