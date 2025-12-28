@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do bees do after they are married? They go on a honeymoon.
+> What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
 
 <!-- END -->
 
