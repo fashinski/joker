@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be addicted to the hokey pokey, but I turned myself around.
+> Every night at 11:11, I make a wish that someone will come fix my broken clock.
 
 <!-- END -->
 
