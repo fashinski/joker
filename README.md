@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is red and smells like blue paint?
-Red paint!
+> Do I enjoy making courthouse puns? Guilty
 
 <!-- END -->
 
