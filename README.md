@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't a bicycle stand on its own? It's two-tired.
+> Have you heard of the band 1023MB? They haven't got a gig yet.
 
 <!-- END -->
 
