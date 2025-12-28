@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are pirates called pirates? Because they arrr!
+> I'll tell you what often gets over looked... garden fences.
 
 <!-- END -->
 
