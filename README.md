@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do hens stay fit? They always egg-cercise!
+> What kind of award did the dentist receive? A little plaque.
 
 <!-- END -->
 
