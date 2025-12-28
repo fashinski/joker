@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.
+> What is the tallest building in the world? The library â itâs got the most stories!
 
 <!-- END -->
 
