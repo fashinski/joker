@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call cheese by itself? Provolone.
+> What kind of bagel can fly? A plain bagel.
 
 <!-- END -->
 
