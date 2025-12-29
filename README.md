@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the man run around his bed? Because he was trying to catch up on his sleep!
+> How many South Americans does it take to change a lightbulb? A Brazilian
 
 <!-- END -->
 
