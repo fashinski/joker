@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are mummys scared of vacation? They're afraid to unwind.
+> I decided to sell my Hooverâ¦ well it was just collecting dust.
 
 <!-- END -->
 
