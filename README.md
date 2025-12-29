@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do birds fly south for the winter? Because it's too far to walk.
+> What is the least spoken language in the world?
+Sign Language
 
 <!-- END -->
 
