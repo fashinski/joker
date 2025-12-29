@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do computers and air conditioners have in common? They both become useless when you open windows.
+> Why did the feline fail the lie detector test? Because he be lion.
 
 <!-- END -->
 
