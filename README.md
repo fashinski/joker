@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one snowman say to the other snow man? Do you smell carrot?
+> If two vegans are having an argument, is it still considered beef?
 
 <!-- END -->
 
