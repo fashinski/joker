@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the robot angry? Because someone kept pressing his buttons!
+> Why is the new Kindle screen textured to look like paper? So you feel write at home.
 
 <!-- END -->
 
