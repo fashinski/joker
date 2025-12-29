@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Atheism is a non-prophet organisation.
+> Can I watch the TV? Dad: Yes, but donât turn it on.
 
 <!-- END -->
 
