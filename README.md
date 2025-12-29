@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the mountain climber name his son? Cliff.
+> Slept like a log last night â¦ woke up in the fireplace.
 
 <!-- END -->
 
