@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is Peter Pan always flying? Because he Neverlands.
+> What kind of tree fits in your hand? A palm tree!
 
 <!-- END -->
 
