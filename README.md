@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Do you know where you can get chicken broth in bulk? The stock market.
+> Why do fish live in salt water? Because pepper makes them sneeze!
 
 <!-- END -->
 
