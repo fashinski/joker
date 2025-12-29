@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the least spoken language in the world?
-Sign Language
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
