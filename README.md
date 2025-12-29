@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.
+> I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
 
 <!-- END -->
 
