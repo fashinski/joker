@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the strawberry sad? Its parents were in a jam.
+> What does an angry pepper do? It gets jalapeÃ±o face.
 
 <!-- END -->
 
