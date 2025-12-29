@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dad, can you put my shoes on? I don't think they'll fit me.
+> Why does Superman get invited to dinners? Because he is a Supperhero.
 
 <!-- END -->
 
