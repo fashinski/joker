@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the Mexican train killer? He had loco motives
+> Why is the ocean always blue? Because the shore never waves back.
 
 <!-- END -->
 
