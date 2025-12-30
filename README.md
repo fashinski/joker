@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of award did the dentist receive? A little plaque.
+> What do you call a fish wearing a bowtie? Sofishticated.
 
 <!-- END -->
 
