@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To the guy who invented zero... thanks for nothing.
+> If two vegans are having an argument, is it still considered beef?
 
 <!-- END -->
 
