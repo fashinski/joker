@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is this movie about? It is about 2 hours long.
+> Why should you never trust a pig with a secret? Because it's bound to squeal.
 
 <!-- END -->
 
