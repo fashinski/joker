@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You can't trust a ladder. It will always let you down
+> I went to the doctor today and he told me I had type A blood but it was a type O.
 
 <!-- END -->
 
