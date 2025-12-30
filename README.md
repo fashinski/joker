@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the coffee file a police report? It got mugged.
+> It's only a murder of crows if there's probable caws.
 
 <!-- END -->
 
