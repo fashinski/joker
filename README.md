@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the best thing about elevator jokes? They work on so many levels.
+> Why do choirs keep buckets handy? So they can carry their tune
 
 <!-- END -->
 
