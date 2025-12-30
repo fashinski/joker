@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Never take advice from electrons. They are always negative.
+> I was wondering why the frisbee was getting bigger, then it hit me.
 
 <!-- END -->
 
