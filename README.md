@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the m&m go to school? Because it wanted to be a Smartie!
+> Dad, can you put my shoes on? I don't think they'll fit me.
 
 <!-- END -->
 
