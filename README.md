@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you heard about the owl sanctuary job opening? Itâs all night shifts but theyâre all a hoot over there.
+> Did you hear about the bread factory burning down? They say the business is toast.
 
 <!-- END -->
 
