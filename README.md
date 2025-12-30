@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is the ocean always blue? Because the shore never waves back.
+> Why did the m&m go to school? Because it wanted to be a Smartie!
 
 <!-- END -->
 
