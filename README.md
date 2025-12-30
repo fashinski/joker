@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to the doctor today and he told me I had type A blood but it was a type O.
+> My boss told me to attach two pieces of wood together... I totally nailed it!
 
 <!-- END -->
 
