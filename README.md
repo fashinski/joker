@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do owls go to buy their baby clothes? The owlet malls.
+> Shout out to my grandma, that's the only way she can hear.
 
 <!-- END -->
 
