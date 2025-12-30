@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It's only a murder of crows if there's probable caws.
+> How does a French skeleton say hello? Bone-jour.
 
 <!-- END -->
 
