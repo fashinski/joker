@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs brown and sounds like a bell? Dung!
+> Every morning when I go out, I get hit by bicycle. Every morning!  It's a vicious cycle.
 
 <!-- END -->
 
