@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My friend said to me: "What rhymes with orange" I said: "no it doesn't"
+> What did the digital clock say to the grandfather clock? Look, no hands!
 
 <!-- END -->
 
