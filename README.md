@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Chances are if you' ve seen one shopping center, you've seen a mall.
+> As I suspected, someone has been adding soil to my garden. The plot thickens.
 
 <!-- END -->
 
