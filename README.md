@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I gave all my dead batteries away today, free of charge.
+> What do you call a criminal going down the stairs? Condescending
 
 <!-- END -->
 
