@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do cows not have toes? They lactose!
+> How does Darth Vader like his toast? On the dark side.
 
 <!-- END -->
 
