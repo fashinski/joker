@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do mathematicians hate the U.S.? Because it's indivisible.
+> I donât play soccer because I enjoy the sport. Iâm just doing it for kicks.
 
 <!-- END -->
 
