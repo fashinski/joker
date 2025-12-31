@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a bee that lives in America? A USB.
+> What is the best way to carve?
+Whittle by whittle.
 
 <!-- END -->
 
