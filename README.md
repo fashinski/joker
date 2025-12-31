@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two guys walked into a bar, the third one ducked.
+> Chances are if you' ve seen one shopping center, you've seen a mall.
 
 <!-- END -->
 
