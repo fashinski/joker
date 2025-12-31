@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish.
+> Why do wizards clean their teeth three times a day? To prevent bat breath!
 
 <!-- END -->
 
