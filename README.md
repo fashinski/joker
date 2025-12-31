@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Can February march? No, but April may.
+> Where do fish keep their money? In the riverbank
 
 <!-- END -->
 
