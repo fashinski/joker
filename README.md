@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the man run around his bed? Because he was trying to catch up on his sleep!
+> Why does Waldo only wear stripes? Because he doesn't want to be spotted.
 
 <!-- END -->
 
