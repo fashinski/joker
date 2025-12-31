@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call two guys hanging out by your window? Kurt & Rod.
+> My wife told me to rub the herbs on the meat for better flavor. That's sage advice.
 
 <!-- END -->
 
