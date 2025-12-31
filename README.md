@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do birds give out on Halloween? Tweets.
+> What do you call a droid that takes the long way around? R2 detour.
 
 <!-- END -->
 
