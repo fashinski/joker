@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear the one about the giant pickle?  He was kind of a big dill.
+> Did you hear about the Mexican train killer? He had loco motives
 
 <!-- END -->
 
