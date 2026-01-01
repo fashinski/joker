@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do scuba divers fall backwards into the water? Because if they fell forwards theyâd still be in the boat.
+> A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.
 
 <!-- END -->
 
