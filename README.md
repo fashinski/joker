@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They laughed when I said I wanted to be a comedian â theyâre not laughing now.
+> Why did the teddy bear say ânoâ to dessert? Because she was stuffed.
 
 <!-- END -->
 
