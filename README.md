@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's a ninja's favorite type of shoes? Sneakers!
+> What did Yoda say when he saw himself in 4K? "HDMI"
 
 <!-- END -->
 
