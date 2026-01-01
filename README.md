@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's brown and sticky? A stick.
+> I was thinking about moving to Moscow but there is no point Russian into things.
 
 <!-- END -->
 
