@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why couldn't the lifeguard save the hippie? He was too far out, man.
+> Why are mummys scared of vacation? They're afraid to unwind.
 
 <!-- END -->
 
