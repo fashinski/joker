@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is Peter Pan always flying? Because he Neverlands.
+> What's a ninja's favorite type of shoes? Sneakers!
 
 <!-- END -->
 
