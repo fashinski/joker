@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was ten scared of seven? Because seven ate nine.
+> A Skeleton walked into a bar he said I need a beer and a mop
 
 <!-- END -->
 
