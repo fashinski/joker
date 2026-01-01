@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do young cows eat lunch? In the calf-ateria.
+> I used to be addicted to soap, but I'm clean now.
 
 <!-- END -->
 
