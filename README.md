@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Thanks for explaining the word "many" to me. It means a lot.
+> What did the digital clock say to the grandfather clock? Look, no hands!
 
 <!-- END -->
 
