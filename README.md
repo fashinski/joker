@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Archaeology really is a career in ruins.
+> Thanks for explaining the word "many" to me. It means a lot.
 
 <!-- END -->
 
