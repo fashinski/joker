@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I am terrified of elevators. Iâm going to start taking steps to avoid them.
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
