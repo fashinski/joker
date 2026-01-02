@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To the guy who invented zero... thanks for nothing.
+> I got fired from a florist, apparently I took too many leaves.
 
 <!-- END -->
 
