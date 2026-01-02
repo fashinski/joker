@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one plate say to the other plate? Dinner is on me!
+> Where do you learn to make banana splits? At sundae school.
 
 <!-- END -->
 
