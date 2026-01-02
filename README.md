@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the pirate say on his 80th birthday? Aye Matey!
+> What did one plate say to the other plate? Dinner is on me!
 
 <!-- END -->
 
