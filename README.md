@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many South Americans does it take to change a lightbulb? A Brazilian
+> What did the sea say to the sand? "We have to stop meeting like this."
 
 <!-- END -->
 
