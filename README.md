@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work for an origami company but they folded.
+> There are two types of people in this world, those who can extrapolate from incomplete data...
 
 <!-- END -->
 
