@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the miner get fired from his job? He took it for granite...
+> What did the big flower say to the littler flower? Hi, bud!
 
 <!-- END -->
 
