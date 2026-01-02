@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a bear with no teeth? A gummy bear!
+> What do bees do after they are married? They go on a honeymoon.
 
 <!-- END -->
 
