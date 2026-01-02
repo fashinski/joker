@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It takes guts to be an organ donor.
+> What did the piece of bread say to the knife? Butter me up.
 
 <!-- END -->
 
