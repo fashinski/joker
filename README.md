@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My dentist is the best, he even has a little plaque!
+> I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish.
 
 <!-- END -->
 
