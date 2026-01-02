@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has three letters and starts with gas? A Car.
+> You can't trust a ladder. It will always let you down
 
 <!-- END -->
 
