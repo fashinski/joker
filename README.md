@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the left eye say to the right eye? Between us, something smells!
+> What did the pirate say on his 80th birthday? Aye Matey!
 
 <!-- END -->
 
