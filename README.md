@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bees have sticky hair? Because they use honey combs!
+> What do you call a bear with no teeth? A gummy bear!
 
 <!-- END -->
 
