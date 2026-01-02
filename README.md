@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Do you know where you can get chicken broth in bulk? The stock market.
+> How do you make a 'one' disappear? You add a 'g' and it's 'gone'
 
 <!-- END -->
 
