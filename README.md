@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got fired from a florist, apparently I took too many leaves.
+> What's orange and sounds like a parrot? A Carrot.
 
 <!-- END -->
 
