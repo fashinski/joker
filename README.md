@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "I'm sorry." "Hi sorry, I'm dad"
+> Where do sheep go to get their hair cut? The baa-baa shop.
 
 <!-- END -->
 
