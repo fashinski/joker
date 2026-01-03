@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Coffee has a tough time at my house, every morning it gets mugged.
+> People are shocked to discover I have a police record but I love their greatest hits!
 
 <!-- END -->
 
