@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the best way to carve?
-Whittle by whittle.
+> "I'm sorry." "Hi sorry, I'm dad"
 
 <!-- END -->
 
