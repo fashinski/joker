@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the shy pebble wish for? That she was a little boulder.
+> What is the best way to carve?
+Whittle by whittle.
 
 <!-- END -->
 
