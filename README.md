@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I always wanted to look into why I procrastinate, but I keep putting it off. 
+> Why is there always a gate around cemeteries? Because people are always dying to get in.
 
 <!-- END -->
 
