@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What time did the man go to the dentist? Tooth hurt-y.
+> What musical instrument is found in the bathroom? A tuba toothpaste.
 
 <!-- END -->
 
