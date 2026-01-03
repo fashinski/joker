@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do hamburgers go to dance? The meat-ball.
+> Why do choirs keep buckets handy? So they can carry their tune
 
 <!-- END -->
 
