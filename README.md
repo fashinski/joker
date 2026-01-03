@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's blue and not very heavy?  Light blue.
+> Why did the opera singer go sailing? They wanted to hit the high Cs.
 
 <!-- END -->
 
