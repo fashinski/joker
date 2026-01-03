@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I gave all my dead batteries away today, free of charge.
+> What did one wall say to the other wall? I'll meet you at the corner!
 
 <!-- END -->
 
