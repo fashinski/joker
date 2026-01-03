@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is there always a gate around cemeteries? Because people are always dying to get in.
+> Did you hear about the kidnapping at school? It's ok, he woke up.
 
 <!-- END -->
 
