@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a cow with no legs? Ground beef.
+> Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, youâre pretty repulsive yourself.
 
 <!-- END -->
 
