@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When will the little snake arrive? I don't know but he won't be long...
+> A dad washes his car with his son. But after a while, the son says, "why can't you just use a sponge?"
 
 <!-- END -->
 
