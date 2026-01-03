@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A book just fell on my head. I only have my shelf to blame.
+> What do prisoners use to call each other? Cell phones.
 
 <!-- END -->
 
