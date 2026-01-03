@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the opera singer go sailing? They wanted to hit the high Cs.
+> I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 <!-- END -->
 
