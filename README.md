@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A Sandwich walks into a bar, the bartender says âSorry, we donât serve food hereâ
+> Pie is $2.50 in Jamaica and $3.00 in The Bahamas. These are the pie-rates of the Caribbean.
 
 <!-- END -->
 
