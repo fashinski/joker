@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the man put his money in the freezer? He wanted cold hard cash!
+> If you want a job in the moisturizer industry, the best advice I can give is to apply daily.
 
 <!-- END -->
 
