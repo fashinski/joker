@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a bee that lives in America? A USB.
+> How do you make a hankie dance? Put a little boogie in it.
 
 <!-- END -->
 
