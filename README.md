@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do prisoners use to call each other? Cell phones.
+> You can't trust a ladder. It will always let you down
 
 <!-- END -->
 
