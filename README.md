@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To be Frank, I'd have to change my name.
+> I just broke my guitar. It's okay, I won't fret
 
 <!-- END -->
 
