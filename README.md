@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do you learn to make banana splits? At sundae school.
+> What did the 0 say to the 8? Nice belt.
 
 <!-- END -->
 
