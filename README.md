@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dad Iâm hungryâ â¦ âHi hungry Iâm dad
+> This morning I was wondering where the sun was, but then it dawned on me.
 
 <!-- END -->
 
