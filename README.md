@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fat psychic? A four-chin teller.
+> Parallel lines have so much in common. Itâs a shame theyâll never meet.
 
 <!-- END -->
 
