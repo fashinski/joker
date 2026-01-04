@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you steal a coat? You jacket.
+> Where do rabbits go after they get married? On a bunny-moon.
 
 <!-- END -->
 
