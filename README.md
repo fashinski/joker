@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the hat say to the scarf?
-You can hang around. I'll just go on ahead.
-
+> My wife said I was immature. So I told her to get out of my fort.
 
 <!-- END -->
 
