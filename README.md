@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of pants do ghosts wear? Boo jeans.
+> It doesn't matter how much you push the envelope. It will still be stationary.
 
 <!-- END -->
 
