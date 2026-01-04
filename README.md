@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many South Americans does it take to change a lightbulb? A Brazilian
+> Why do birds fly south for the winter? Because it's too far to walk.
 
 <!-- END -->
 
