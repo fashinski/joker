@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bees hum? Because they don't know the words.
+> I heard there was a new store called Moderation. They have everything there
 
 <!-- END -->
 
