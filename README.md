@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do bees do after they are married? They go on a honeymoon.
+> What do you call two barracuda fish?  A Pairacuda!
 
 <!-- END -->
 
