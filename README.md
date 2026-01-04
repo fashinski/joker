@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whiteboards ... are remarkable.
+> I accidentally took my cats meds last night. Donât ask meow.
 
 <!-- END -->
 
