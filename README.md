@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I saw a documentary on TV last night about how they put ships together.  It was rivetting.
+> It's been months since I bought the book "how to scam people online". It still hasn't turned up.
 
 <!-- END -->
 
