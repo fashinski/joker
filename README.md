@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It doesn't matter how much you push the envelope. It will still be stationary.
+> What do bees do after they are married? They go on a honeymoon.
 
 <!-- END -->
 
