@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A steak pun is a rare medium well done.
+> What did one wall say to the other wall? I'll meet you at the corner!
 
 <!-- END -->
 
