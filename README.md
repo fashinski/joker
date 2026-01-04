@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the doctor say to the gingerbread man who broke his leg? Try icing it.
+> A bartender broke up with her boyfriend, but he kept asking her for another shot.
 
 <!-- END -->
 
