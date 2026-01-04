@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the two thieves who stole a calendar? They each got six months.
+> An apple a day keeps the bullies away. If you throw it hard enough.
 
 <!-- END -->
 
