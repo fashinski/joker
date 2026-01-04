@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call two guys hanging out by your window? Kurt & Rod.
+> What did the scarf say to the hat? You go on ahead, I am going to hang around a bit longer.
 
 <!-- END -->
 
