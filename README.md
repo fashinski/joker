@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are graveyards so noisy? Because of all the coffin.
+> I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 <!-- END -->
 
