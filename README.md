@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "I'm sorry." "Hi sorry, I'm dad"
+> Have you ever heard of a music group called Cellophane? They mostly wrap.
 
 <!-- END -->
 
