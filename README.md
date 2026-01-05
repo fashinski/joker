@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whoever invented the knock-knock joke should get a no bell prize.
+> Man, I really love my furniture... me and my recliner go way back.
 
 <!-- END -->
 
