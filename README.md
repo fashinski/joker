@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What animal is always at a game of cricket? A bat.
+> There's not really any training for garbagemen. They just pick things up as they go.
 
 <!-- END -->
 
