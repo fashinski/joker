@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!
+> Leather is great for sneaking around because it's made of hide.
 
 <!-- END -->
 
