@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work at a stationery store.  But, I didn't feel like I was going anywhere.
-
-So, I got a job at a travel agency.  Now, I know I'll be going places.
+> I got a reversible jacket for Christmas, I can't wait to see how it turns out.
 
 <!-- END -->
 
