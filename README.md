@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Animal Fact #25: Most bobcats are not named bob.
+> Did you hear about the cow who jumped over the barbed wire fence? It was udder destruction.
 
 <!-- END -->
 
