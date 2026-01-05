@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does astronauts hangout after work? At the spacebar.
+> I started a new business making yachts in my attic this year...the sails are going through the roof
 
 <!-- END -->
 
