@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I always wanted to look into why I procrastinate, but I keep putting it off. 
+> What did the Buffalo say to his little boy when he dropped him off at school? Bison.
 
 <!-- END -->
 
