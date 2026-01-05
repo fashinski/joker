@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do fish live in salt water? Because pepper makes them sneeze!
+> Have you heard of the band 1023MB? They haven't got a gig yet.
 
 <!-- END -->
 
