@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a pig with three eyes? Piiig
+> A red and a blue ship have just collided in the Caribbean. Apparently the survivors are marooned.
 
 <!-- END -->
 
