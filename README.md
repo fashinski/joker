@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why didnât the skeleton cross the road? Because he had no guts.
+> Where do owls go to buy their baby clothes? The owlet malls.
 
 <!-- END -->
 
