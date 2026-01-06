@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Some people say that I never got over my obsession with Phil Collins.
-But take a look at me now.
+> My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.
 
 <!-- END -->
 
