@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a droid that takes the long way around? R2 detour.
+> Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.
 
 <!-- END -->
 
