@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the half blind man fall in the well? Because he couldn't see that well!
+> Why is Peter Pan always flying? Because he Neverlands.
 
 <!-- END -->
 
