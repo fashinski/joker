@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do owls go to buy their baby clothes? The owlet malls.
+> Why do birds fly south for the winter? Because it's too far to walk.
 
 <!-- END -->
 
