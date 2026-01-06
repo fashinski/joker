@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do birds give out on Halloween? Tweets.
+> Someone broke into my house last night and stole my limbo trophy. How low can you go?
 
 <!-- END -->
 
