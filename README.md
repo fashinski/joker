@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is Peter Pan always flying? Because he Neverlands.
+> What concert costs only 45 cents? 50 cent featuring Nickelback.
 
 <!-- END -->
 
