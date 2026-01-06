@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> As I suspected, someone has been adding soil to my garden. The plot thickens.
+> How was the snow globe feeling after the storm? A little shaken.
 
 <!-- END -->
 
