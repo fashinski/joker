@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A red and a blue ship have just collided in the Caribbean. Apparently the survivors are marooned.
+> I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.
 
 <!-- END -->
 
