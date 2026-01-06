@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be a banker, but I lost interest.
+> What do you call a droid that takes the long way around? R2 detour.
 
 <!-- END -->
 
