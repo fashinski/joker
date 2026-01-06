@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, youâre pretty repulsive yourself.
+> Why didn't the number 4 get into the nightclub? Because he is 2 square.
 
 <!-- END -->
 
