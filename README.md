@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.
+> I don't trust stairs. They're always up to something.
 
 <!-- END -->
 
