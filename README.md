@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went on a date last night with a girl from the zoo. It was great. Sheâs a keeper.
+> Why don't you find hippopotamuses hiding in trees?
+They're really good at it.
 
 <!-- END -->
 
