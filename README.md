@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It takes guts to be an organ donor.
+> Why didnât the skeleton cross the road? Because he had no guts.
 
 <!-- END -->
 
