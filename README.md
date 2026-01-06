@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Who did the wizard marry? His ghoul-friend
+> Recent survey revealed 6 out of 7 dwarf's aren't happy.
 
 <!-- END -->
 
