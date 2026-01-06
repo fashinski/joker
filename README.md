@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the left eye say to the right eye? Between us, something smells!
+> An apple a day keeps the bullies away. If you throw it hard enough.
 
 <!-- END -->
 
