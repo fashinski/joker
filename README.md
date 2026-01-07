@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Never take advice from electrons. They are always negative.
+> Why do ducks make great detectives? They always quack the case.
 
 <!-- END -->
 
