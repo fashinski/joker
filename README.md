@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What time did the man go to the dentist? Tooth hurt-y.
+> You will never guess what Elsa did to the balloon. She let it go.
 
 <!-- END -->
 
