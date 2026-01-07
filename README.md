@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do pirates not know the alphabet? They always get stuck at "C".
+> Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.
 
 <!-- END -->
 
