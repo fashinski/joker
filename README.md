@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the barber win the race? He took a short cut.
+> What did the 0 say to the 8? Nice belt.
 
 <!-- END -->
 
