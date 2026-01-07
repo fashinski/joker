@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's orange and sounds like a parrot? A Carrot.
+> How do you get a baby alien to sleep?  You rocket.
 
 <!-- END -->
 
