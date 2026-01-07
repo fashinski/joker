@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To the guy who invented zero... thanks for nothing.
+> Why don't skeletons ride roller coasters? They don't have the stomach for it.
 
 <!-- END -->
 
