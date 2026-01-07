@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to have a job at a calendar factory but I got the sack because I took a couple of days off.
+> Why did the half blind man fall in the well? Because he couldn't see that well!
 
 <!-- END -->
 
