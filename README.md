@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When is a door not a door? When it's ajar.
+> What's the worst thing about ancient history class? The teachers tend to Babylon.
 
 <!-- END -->
 
