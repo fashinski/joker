@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The rotation of earth really makes my day.
+> Where was the Declaration of Independence signed?
+
+At the bottom! 
 
 <!-- END -->
 
