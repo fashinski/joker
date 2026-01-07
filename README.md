@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the fish say when it swam into a wall? Damn!
+> Why do pirates not know the alphabet? They always get stuck at "C".
 
 <!-- END -->
 
