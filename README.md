@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is bread's favorite number?  Leaven.
+> What do you call a pig with three eyes? Piiig
 
 <!-- END -->
 
