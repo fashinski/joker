@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You will never guess what Elsa did to the balloon. She let it go.
+> What is red and smells like blue paint?
+Red paint!
 
 <!-- END -->
 
