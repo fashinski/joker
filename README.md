@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I just broke my guitar. It's okay, I won't fret
+> What's orange and sounds like a parrot? A Carrot.
 
 <!-- END -->
 
