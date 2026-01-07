@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be addicted to soap, but I'm clean now.
+> I just broke my guitar. It's okay, I won't fret
 
 <!-- END -->
 
