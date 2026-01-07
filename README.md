@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When is a door not a door? When it's ajar.
+> What time did the man go to the dentist? Tooth hurt-y.
 
 <!-- END -->
 
