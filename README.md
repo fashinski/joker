@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was ten scared of seven? Because seven ate nine.
+> What do you call a snake who builds houses? A boa constructor!
 
 <!-- END -->
 
