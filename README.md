@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Somebody stole my Microsoft Office and they're going to pay - you have my Word.
+> What do computers and air conditioners have in common? They both become useless when you open windows.
 
 <!-- END -->
 
