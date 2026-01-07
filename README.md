@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do ducks make great detectives? They always quack the case.
+> What kind of dinosaur loves to sleep? A stega-snore-us.
 
 <!-- END -->
 
