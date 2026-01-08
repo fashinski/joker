@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do bees go to the bathroom?  The BP station.
+> What do you call a sheep with no legs? A cloud.
 
 <!-- END -->
 
