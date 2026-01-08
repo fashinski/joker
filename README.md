@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The rotation of earth really makes my day.
+> What do you call a pig that knows karate? A pork chop!
 
 <!-- END -->
 
