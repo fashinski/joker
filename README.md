@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A cannibal is someone who is fed up with people.
+> Why are fish easy to weigh? Because they have their own scales.
 
 <!-- END -->
 
