@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I thought about going on an all-almond diet. But that's just nuts.
+> Conjunctivitis.com â now thatâs a site for sore eyes.
 
 <!-- END -->
 
