@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are fish easy to weigh? Because they have their own scales.
+> What's large, grey, and doesn't matter?
+An irrelephant.
+
 
 <!-- END -->
 
