@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you know if thereâs an elephant under your bed? Your head hits the ceiling!
+> My wife is on a tropical fruit diet, the house is full of stuff. It is enough to make a mango crazy.
 
 <!-- END -->
 
