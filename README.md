@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are ghosts bad liars? Because you can see right through them!
+> I burned 2000 calories today, I left my food in the oven for too long.
 
 <!-- END -->
 
