@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the miner get fired from his job? He took it for granite...
+> I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.
 
 <!-- END -->
 
