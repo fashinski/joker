@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dermatologists are always in a hurry. They spend all day making rash decisions. 
+> What time did the man go to the dentist? Tooth hurt-y.
 
 <!-- END -->
 
