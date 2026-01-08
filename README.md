@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the teddy bear say ânoâ to dessert? Because she was stuffed.
+> Two peanuts were walking down the street. One was a salted.
 
 <!-- END -->
 
