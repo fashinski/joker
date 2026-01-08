@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the cheese who saved the world? It was Legend-dairy!
+> Coffee has a tough time at my house, every morning it gets mugged.
 
 <!-- END -->
 
