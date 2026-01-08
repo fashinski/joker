@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You know what they say about cliffhangers...
+> Have you heard of the band 1023MB? They haven't got a gig yet.
 
 <!-- END -->
 
