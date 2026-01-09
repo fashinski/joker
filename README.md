@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it.
+> Why did the knife dress up in a suit? Because it wanted to look sharp
 
 <!-- END -->
 
