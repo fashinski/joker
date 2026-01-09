@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I think circles are pointless.
+> What is this movie about? It is about 2 hours long.
 
 <!-- END -->
 
