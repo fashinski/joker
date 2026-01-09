@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They tried to make a diamond shaped like a duck. It quacked under the pressure.
+> How do the trees get on the internet? They log on.
 
 <!-- END -->
 
