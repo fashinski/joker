@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the strawberry sad? Its parents were in a jam.
+> A horse walks into a bar. The bar tender says "Hey." The horse says "Sure."
 
 <!-- END -->
 
