@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of music do mummy's like? Rap
+> I boiled a funny bone last night and had a laughing stock
 
 <!-- END -->
 
