@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to the zoo the other day, there was only one dog in it. It was a shitzu.
+> Me and my mates are in a band called Duvet. We're a cover band.
 
 <!-- END -->
 
