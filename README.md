@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call two barracuda fish?  A Pairacuda!
+> It doesn't matter how much you push the envelope. It will still be stationary.
 
 <!-- END -->
 
