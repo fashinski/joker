@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is it always hot in the corner of a room? Because a corner is 90 degrees.
+> There are two types of people in this world, those who can extrapolate from incomplete data...
 
 <!-- END -->
 
