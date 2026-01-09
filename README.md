@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I boiled a funny bone last night and had a laughing stock
+> Have you ever heard of a music group called Cellophane? They mostly wrap.
 
 <!-- END -->
 
