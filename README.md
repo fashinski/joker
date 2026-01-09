@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A horse walks into a bar. The bar tender says "Hey." The horse says "Sure."
+> What did the green grape say to the purple grape?
+BREATH!!
 
 <!-- END -->
 
