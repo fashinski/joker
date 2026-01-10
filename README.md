@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Yesterday a clown held a door open for me. I thought it was a nice jester.
+> Did you hear about the guy whose whole left side was cut off? He's all right now.
 
 <!-- END -->
 
