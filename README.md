@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> âHold on, I have something in my shoeâ  âIâm pretty sure itâs a footâ
+> Yesterday a clown held a door open for me. I thought it was a nice jester.
 
 <!-- END -->
 
