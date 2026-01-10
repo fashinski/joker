@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Who did the wizard marry? His ghoul-friend
+> Man, I really love my furniture... me and my recliner go way back.
 
 <!-- END -->
 
