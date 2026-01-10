@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got fired from a florist, apparently I took too many leaves.
+> I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.
 
 <!-- END -->
 
