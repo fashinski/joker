@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why should you never trust a pig with a secret? Because it's bound to squeal.
+> What did the pirate say on his 80th birthday? Aye Matey!
 
 <!-- END -->
 
