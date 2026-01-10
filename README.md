@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Want to hear my pizza joke? Never mind, it's too cheesy.
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
