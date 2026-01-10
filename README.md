@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many bones are in the human hand? A handful of them.
+> What do you get hanging from Apple trees? Sore arms.
 
 <!-- END -->
 
