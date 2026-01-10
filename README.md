@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the dog say to the two trees? Bark bark.
+> What do you call a duck that gets all A's? A wise quacker.
 
 <!-- END -->
 
