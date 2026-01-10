@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are graveyards so noisy? Because of all the coffin.
+> What do you call a bear with no teeth? A gummy bear!
 
 <!-- END -->
 
