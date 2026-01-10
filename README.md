@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the pirate say on his 80th birthday? Aye Matey!
+> A termite walks into a bar and asks âIs the bar tender here?â
 
 <!-- END -->
 
