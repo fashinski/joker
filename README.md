@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make a 'one' disappear? You add a 'g' and it's 'gone'
+> Why are basketball players messy eaters? Because they are always dribbling.
 
 <!-- END -->
 
