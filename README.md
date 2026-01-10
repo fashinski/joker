@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the kidnapping at school? It's ok, he woke up.
+> People are making apocalypse jokes like thereâs no tomorrow.
 
 <!-- END -->
 
