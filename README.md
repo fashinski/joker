@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a magician who has lost their magic? Ian.
+> Dermatologists are always in a hurry. They spend all day making rash decisions. 
 
 <!-- END -->
 
