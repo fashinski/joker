@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a duck that gets all A's? A wise quacker.
+> Whoever invented the knock-knock joke should get a no bell prize.
 
 <!-- END -->
 
