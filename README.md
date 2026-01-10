@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I have the heart of a lion... and a lifetime ban from the San Diego Zoo.
+> A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.
 
 <!-- END -->
 
