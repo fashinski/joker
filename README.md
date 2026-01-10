@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I don't trust stairs. They're always up to something.
+> I got fired from a florist, apparently I took too many leaves.
 
 <!-- END -->
 
