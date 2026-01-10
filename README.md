@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do young cows eat lunch? In the calf-ateria.
+> What do you call a guy lying on your doorstep? Matt.
 
 <!-- END -->
 
