@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the hardest part about sky diving? The ground.
+> What did the dog say to the two trees? Bark bark.
 
 <!-- END -->
 
