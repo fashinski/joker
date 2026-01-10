@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I knew i shouldnât have ate that seafood. Because now iâm feeling a littleâ¦ Eel
+> How many bones are in the human hand? A handful of them.
 
 <!-- END -->
 
