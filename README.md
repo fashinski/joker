@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Animal Fact #25: Most bobcats are not named bob.
+> Why was the strawberry sad? Its parents were in a jam.
 
 <!-- END -->
 
