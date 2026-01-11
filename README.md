@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the tallest building in the world? The library â itâs got the most stories!
+> âPut the cat outâ â¦ âI didnât realize it was on fire
 
 <!-- END -->
 
