@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was it called the dark ages? Because of all the knights. 
+> A magician was driving down the street and then he turned into a driveway.
 
 <!-- END -->
 
