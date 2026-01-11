@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the Zen Buddist say to the hotdog vendor? Make me one with everything.
+> Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.
 
 <!-- END -->
 
