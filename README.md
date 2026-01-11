@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the tree go to the dentist? It needed a root canal.
+> What did the ocean say to the beach? Thanks for all the sediment.
 
 <!-- END -->
 
