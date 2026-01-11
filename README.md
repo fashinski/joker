@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an elephant that doesnât matter? An irrelephant.
+> I heard there was a new store called Moderation. They have everything there
 
 <!-- END -->
 
