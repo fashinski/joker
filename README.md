@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's orange and sounds like a parrot? A Carrot.
+> What time did the man go to the dentist? Tooth hurt-y.
 
 <!-- END -->
 
