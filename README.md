@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A butcher accidentally backed into his meat grinder and got a little behind in his work that day.
+> I went to the zoo yesterday and saw a baguette in a cage. It was bread in captivity.
 
 <!-- END -->
 
