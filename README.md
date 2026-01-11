@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Child: Dad, make me a sandwich. Dad: Poof! You're a sandwich.
+> Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.
 
 <!-- END -->
 
