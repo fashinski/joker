@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> what do you call a dog that can do magic tricks? a labracadabrador
+> What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.
 
 <!-- END -->
 
