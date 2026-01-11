@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.
+> Doctor you've got you help me, I'm addicted to twitter. Doctor: I don't follow you.
 
 <!-- END -->
 
