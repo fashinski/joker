@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dad died because he couldn't remember his blood type. I will never forget his last words. Be positive.
+> I met this girl on a dating site and, I don't know, we just clicked.
 
 <!-- END -->
 
