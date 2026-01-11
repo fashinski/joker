@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Never take advice from electrons. They are always negative.
+> When will the little snake arrive? I don't know but he won't be long...
 
 <!-- END -->
 
