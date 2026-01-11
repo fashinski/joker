@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a scientist freshen their breath? With experi-mints!
+> What does a pirate pay for his corn? A buccaneer!
 
 <!-- END -->
 
