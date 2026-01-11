@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The biggest knight at King Arthur's round table was Sir Cumference. He acquired his size from eating too much pi.
+> What did the piece of bread say to the knife? Butter me up.
 
 <!-- END -->
 
