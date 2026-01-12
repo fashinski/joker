@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Coffee has a tough time at my house, every morning it gets mugged.
+> What did the grape do when he got stepped on? He let out a little wine.
 
 <!-- END -->
 
