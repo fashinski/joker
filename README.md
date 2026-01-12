@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you do on a remote island? Try and find the TV island it belongs to.
+> Why are mummys scared of vacation? They're afraid to unwind.
 
 <!-- END -->
 
