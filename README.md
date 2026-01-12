@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a guy lying on your doorstep? Matt.
+> Coffee has a tough time at my house, every morning it gets mugged.
 
 <!-- END -->
 
