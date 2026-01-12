@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.
+> The first time I got a universal remote control I thought to myself, "This changes everything"
 
 <!-- END -->
 
