@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a beehive without the b's? An eehive.
+> How do you make a water bed more bouncy. You use Spring Water
 
 <!-- END -->
 
