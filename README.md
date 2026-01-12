@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The rotation of earth really makes my day.
+> What did the left eye say to the right eye? Between us, something smells!
 
 <!-- END -->
 
