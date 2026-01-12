@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I hate perforated lines, they're tearable.
+> What do you call a guy lying on your doorstep? Matt.
 
 <!-- END -->
 
