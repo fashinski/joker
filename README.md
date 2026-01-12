@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make a water bed more bouncy. You use Spring Water
+> The first time I got a universal remote control I thought to myself, "This changes everything"
 
 <!-- END -->
 
