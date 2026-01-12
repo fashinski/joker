@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> No matter how kind you are, German children are kinder.
+> Where do sheep go to get their hair cut? The baa-baa shop.
 
 <!-- END -->
 
