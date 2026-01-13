@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When does a joke become a dad joke? When it becomes apparent.
+> Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 <!-- END -->
 
