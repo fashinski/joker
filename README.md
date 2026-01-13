@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to have a job at a calendar factory but I got the sack because I took a couple of days off.
+> I went to a book store and asked the saleswoman where the Self Help section was, she said if she told me it would defeat the purpose.
 
 <!-- END -->
 
