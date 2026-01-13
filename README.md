@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you find Will Smith in the snow?  Look for fresh prints.
+> What was a more important invention than the first telephone? The second one.
 
 <!-- END -->
 
