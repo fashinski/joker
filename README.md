@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Han Solo like gum? It's chewy!
+> We all know where the Big Apple is but does anyone know where the Minneapolis?
 
 <!-- END -->
 
