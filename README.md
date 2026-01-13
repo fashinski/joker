@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What concert costs only 45 cents? 50 cent featuring Nickelback.
+> What kind of dinosaur loves to sleep? A stega-snore-us.
 
 <!-- END -->
 
