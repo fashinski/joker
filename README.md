@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What was a more important invention than the first telephone? The second one.
+> My son is studying to be a surgeon, I just hope he makes the cut.
 
 <!-- END -->
 
