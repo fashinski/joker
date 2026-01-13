@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> There's not really any training for garbagemen. They just pick things up as they go.
+> Some people eat light bulbs. They say it's a nice light snack.
 
 <!-- END -->
 
