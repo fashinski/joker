@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to attach two pieces of wood together... I totally nailed it!
+> Have you ever heard of a music group called Cellophane? They mostly wrap.
 
 <!-- END -->
 
