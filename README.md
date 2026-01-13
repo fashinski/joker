@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Just read a few facts about frogs. They were ribbiting.
+> Have you heard of the band 1023MB? They haven't got a gig yet.
 
 <!-- END -->
 
