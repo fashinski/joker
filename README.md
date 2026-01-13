@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a pirate pay for his corn? A buccaneer!
+> There's not really any training for garbagemen. They just pick things up as they go.
 
 <!-- END -->
 
