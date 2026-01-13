@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Some people eat light bulbs. They say it's a nice light snack.
+> I used to have a job at a calendar factory but I got the sack because I took a couple of days off.
 
 <!-- END -->
 
