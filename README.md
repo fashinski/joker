@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you heard about the film "Constipation", you probably haven't because it's not out yet.
+> What's the difference between a seal and a sea lion?
+An ion! 
 
 <!-- END -->
 
