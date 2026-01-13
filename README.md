@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a pig that knows karate? A pork chop!
+> My boss told me to attach two pieces of wood together... I totally nailed it!
 
 <!-- END -->
 
