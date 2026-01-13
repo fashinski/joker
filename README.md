@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many tickles does it take to tickle an octopus? Ten-tickles!
+> What concert costs only 45 cents? 50 cent featuring Nickelback.
 
 <!-- END -->
 
