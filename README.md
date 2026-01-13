@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why didnât the skeleton cross the road? Because he had no guts.
+> When does a joke become a dad joke? When it becomes apparent.
 
 <!-- END -->
 
