@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Never take advice from electrons. They are always negative.
+> Why are skeletons so calm? Because nothing gets under their skin.
 
 <!-- END -->
 
