@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where did you learn to make ice cream? Sunday school.
+> Dad, can you put my shoes on? I don't think they'll fit me.
 
 <!-- END -->
 
