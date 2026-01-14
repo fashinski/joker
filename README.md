@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does Napoleon keep his armies? In his sleevies.
+> What does a pirate pay for his corn? A buccaneer!
 
 <!-- END -->
 
