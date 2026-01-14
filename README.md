@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the hardest part about sky diving? The ground.
+> Thanks for explaining the word "many" to me. It means a lot.
 
 <!-- END -->
 
