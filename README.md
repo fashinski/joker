@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I have kleptomania, but when it gets bad, I take something for it.
+> What time did the man go to the dentist? Tooth hurt-y.
 
 <!-- END -->
 
