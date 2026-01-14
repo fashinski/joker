@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I saw a documentary on TV last night about how they put ships together.  It was rivetting.
+> It was raining cats and dogs the other day. I almost stepped in a poodle.
 
 <!-- END -->
 
