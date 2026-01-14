@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'm glad I know sign language, it's pretty handy.
+> How did the hipster burn the roof of his mouth? He ate the pizza before it was cool.
 
 <!-- END -->
 
