@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I started a new business making yachts in my attic this year...the sails are going through the roof
+> I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.
 
 <!-- END -->
 
