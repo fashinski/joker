@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâm on a whiskey diet. Iâve lost three days already.
+> Why did the kid throw the clock out the window? He wanted to see time fly!
 
 <!-- END -->
 
