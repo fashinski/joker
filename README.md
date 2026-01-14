@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I broke my finger at work today, on the other hand I'm completely fine.
+> What do computers and air conditioners have in common? They both become useless when you open windows.
 
 <!-- END -->
 
