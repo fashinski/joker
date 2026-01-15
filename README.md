@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You know that cemetery up the road? People are dying to get in there.
+> What did the 0 say to the 8? Nice belt.
 
 <!-- END -->
 
