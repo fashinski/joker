@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Someone broke into my house last night and stole my limbo trophy. How low can you go?
+> Have you ever seen fruit preserves being made? It's jarring.
 
 <!-- END -->
 
