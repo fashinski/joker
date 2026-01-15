@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the kid throw the clock out the window? He wanted to see time fly!
+> What do you get hanging from Apple trees? Sore arms.
 
 <!-- END -->
 
