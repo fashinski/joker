@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the calculator say to the student? You can count on me.
+> "Why do seagulls fly over the ocean?" "Because if they flew over the bay, we'd call them bagels."
 
 <!-- END -->
 
