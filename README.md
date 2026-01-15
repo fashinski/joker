@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The other day, my wife asked me to pass her lipstick but I accidentally passed her a glue stick. She still isn't talking to me.
+> Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!
 
 <!-- END -->
 
