@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's orange and sounds like a parrot? A Carrot.
+> The urge to sing the Lion King song is just a whim away.
 
 <!-- END -->
 
