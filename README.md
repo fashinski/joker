@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> This furniture store keeps emailing me, all I wanted was one night stand!
+> What do you call a boy who stopped digging holes? Douglas.
 
 <!-- END -->
 
