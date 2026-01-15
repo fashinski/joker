@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whiteboards ... are remarkable.
+> Why did the kid throw the clock out the window? He wanted to see time fly!
 
 <!-- END -->
 
