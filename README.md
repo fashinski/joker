@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'd like to start a diet, but I've got too much on my plate right now.
+> Did you know that protons have mass? I didn't even know they were catholic.
 
 <!-- END -->
 
