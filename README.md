@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do fish live in salt water? Because pepper makes them sneeze!
+> What do you call a fish with no eyes? A fsh.
 
 <!-- END -->
 
