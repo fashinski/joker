@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is no one friends with Dracula? Because he's a pain in the neck.
+> How many South Americans does it take to change a lightbulb? A Brazilian
 
 <!-- END -->
 
