@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bees hum? Because they don't know the words.
+> I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 <!-- END -->
 
