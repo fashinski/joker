@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an eagle who can play the piano? Talonted!
+> Why do bees hum? Because they don't know the words.
 
 <!-- END -->
 
