@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a pirate pay for his corn? A buccaneer!
+> Why do we tell actors to âbreak a leg?â Because every play has a cast.
 
 <!-- END -->
 
