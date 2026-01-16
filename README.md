@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I saw a documentary on TV last night about how they put ships together.  It was rivetting.
+> Remember, the best angle to approach a problem from is the "try" angle.
 
 <!-- END -->
 
