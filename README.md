@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of tree fits in your hand? A palm tree!
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
