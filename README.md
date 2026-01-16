@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People are making apocalypse jokes like thereâs no tomorrow.
+> An apple a day keeps the bullies away. If you throw it hard enough.
 
 <!-- END -->
 
