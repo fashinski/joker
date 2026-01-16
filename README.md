@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'll tell you what often gets over looked... garden fences.
+> What do you get when you cross a chicken with a skunk? A fowl smell!
 
 <!-- END -->
 
