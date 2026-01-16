@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement
+> Yesterday a clown held a door open for me. I thought it was a nice jester.
 
 <!-- END -->
 
