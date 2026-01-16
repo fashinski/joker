@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work for a soft drink can crusher. It was soda pressing.
+> Whatâs the advantage of living in Switzerland? Well, the flag is a big plus.
 
 <!-- END -->
 
