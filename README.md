@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Want to hear my pizza joke? Never mind, it's too cheesy.
+> Why are snake races so exciting? They're always neck and neck.
 
 <!-- END -->
 
