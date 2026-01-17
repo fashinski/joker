@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.
+> What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.
 
 <!-- END -->
 
