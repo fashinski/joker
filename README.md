@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What was the pumpkinâs favorite sport?
-
-Squash.
+> Iâve got this disease where I canât stop making airport puns. The doctor says it terminal.
 
 <!-- END -->
 
