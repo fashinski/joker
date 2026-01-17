@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Conjunctivitis.com â now thatâs a site for sore eyes.
+> Why did the cookie cry?
+Because his mother was a wafer so long
 
 <!-- END -->
 
