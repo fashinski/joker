@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâve got this disease where I canât stop making airport puns. The doctor says it terminal.
+> Conjunctivitis.com â now thatâs a site for sore eyes.
 
 <!-- END -->
 
