@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a scientist freshen their breath? With experi-mints!
+> Why did the belt go to prison? He held up a pair of pants!
 
 <!-- END -->
 
