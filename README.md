@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I boiled a funny bone last night and had a laughing stock
+> Coffee has a tough time at my house, every morning it gets mugged.
 
 <!-- END -->
 
