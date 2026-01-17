@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How did Darth Vader know what Luke was getting for Christmas? He felt his presents.
+> An apple a day keeps the bullies away. If you throw it hard enough.
 
 <!-- END -->
 
