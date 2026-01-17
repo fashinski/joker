@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was going to learn how to juggle, but I didn't have the balls.
+> Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.
 
 <!-- END -->
 
