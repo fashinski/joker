@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a clock do when it's hungry? It goes back four seconds!
+> I met this girl on a dating site and, I don't know, we just clicked.
 
 <!-- END -->
 
