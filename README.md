@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Bad at golf? Join the club.
+> What do you call cheese by itself? Provolone.
 
 <!-- END -->
 
