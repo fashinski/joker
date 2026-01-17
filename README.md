@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do I look like? A JOKE MACHINE!?
+> Did you hear the joke about the wandering nun? She was a roman catholic.
 
 <!-- END -->
 
