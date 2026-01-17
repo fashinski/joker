@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an old snowman? Water.
+> Chances are if you' ve seen one shopping center, you've seen a mall.
 
 <!-- END -->
 
