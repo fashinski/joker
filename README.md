@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It takes guts to be an organ donor.
+> What was the pumpkinâs favorite sport?
+
+Squash.
 
 <!-- END -->
 
