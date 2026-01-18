@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't a bicycle stand on its own? It's two-tired.
+> What do you call an Argentinian with a rubber toe? Roberto
 
 <!-- END -->
 
