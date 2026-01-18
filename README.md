@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.
+> Why can't a bicycle stand on its own? It's two-tired.
 
 <!-- END -->
 
