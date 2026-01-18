@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The urge to sing the Lion King song is just a whim away.
+> What concert costs only 45 cents? 50 cent featuring Nickelback.
 
 <!-- END -->
 
