@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got an A on my origami assignment when I turned my paper into my teacher
+> Why can't a bicycle stand on its own? It's two-tired.
 
 <!-- END -->
 
