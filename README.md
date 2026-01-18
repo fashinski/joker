@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an Argentinian with a rubber toe? Roberto
+> Did you know crocodiles could grow up to 15 feet? But most just have 4.
 
 <!-- END -->
 
