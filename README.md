@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be addicted to soap, but I'm clean now.
+> I considered building the patio by myself. But I didn't have the stones.
 
 <!-- END -->
 
