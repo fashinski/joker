@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was going to get a brain transplant, but I changed my mind
+> Why did the knife dress up in a suit? Because it wanted to look sharp
 
 <!-- END -->
 
