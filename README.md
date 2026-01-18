@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I accidentally took my cats meds last night. Donât ask meow.
+> Why can't a bicycle stand on its own? It's two-tired.
 
 <!-- END -->
 
