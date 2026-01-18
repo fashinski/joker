@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Some people say that I never got over my obsession with Phil Collins.
-But take a look at me now.
+> The urge to sing the Lion King song is just a whim away.
 
 <!-- END -->
 
