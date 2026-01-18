@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is it so windy inside an arena? All those fans.
+> I used to be addicted to soap, but I'm clean now.
 
 <!-- END -->
 
