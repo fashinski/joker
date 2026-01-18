@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do the trees get on the internet? They log on.
+> Why can't your nose be 12 inches long? Because then it'd be a foot!
 
 <!-- END -->
 
