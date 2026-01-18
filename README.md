@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I considered building the patio by myself. But I didn't have the stones.
+> How many bones are in the human hand? A handful of them.
 
 <!-- END -->
 
