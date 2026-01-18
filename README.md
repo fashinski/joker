@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A Sandwich walks into a bar, the bartender says âSorry, we donât serve food hereâ
+> What do computers and air conditioners have in common? They both become useless when you open windows.
 
 <!-- END -->
 
