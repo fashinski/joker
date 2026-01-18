@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's red and bad for your teeth? A Brick.
+> Why was the strawberry sad? Its parents were in a jam.
 
 <!-- END -->
 
