@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has three letters and starts with gas? A Car.
+> My boss told me to have a good day. So I went home...
 
 <!-- END -->
 
