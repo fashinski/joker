@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!
+> I started a new business making yachts in my attic this year...the sails are going through the roof
 
 <!-- END -->
 
