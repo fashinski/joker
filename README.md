@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work for an origami company but they folded.
+> How can you tell a vampire has a cold? They start coffin.
 
 <!-- END -->
 
