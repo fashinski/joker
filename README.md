@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are ghosts bad liars? Because you can see right through them!
+> Why is there always a gate around cemeteries? Because people are always dying to get in.
 
 <!-- END -->
 
