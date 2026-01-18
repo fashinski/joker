@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is there always a gate around cemeteries? Because people are always dying to get in.
+> When I left school, I passed every one of my exams with the exception of Greek Mythology. It always was my achilles elbow
 
 <!-- END -->
 
