@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A book just fell on my head. I only have my shelf to blame.
+> What did the shy pebble wish for? That she was a little boulder.
 
 <!-- END -->
 
