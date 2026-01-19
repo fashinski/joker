@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs the difference between an African elephant and an Indian elephant? About 5000 miles.
+> What kind of award did the dentist receive? A little plaque.
 
 <!-- END -->
 
