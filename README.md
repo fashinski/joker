@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Which side of the chicken has more feathers? The outside.
+> Leather is great for sneaking around because it's made of hide.
 
 <!-- END -->
 
