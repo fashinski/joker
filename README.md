@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a cow on a trampoline? A milk shake!
+> What do you call a snake who builds houses? A boa constructor!
 
 <!-- END -->
 
