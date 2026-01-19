@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do fish keep their money? In the riverbank
+> My son is studying to be a surgeon, I just hope he makes the cut.
 
 <!-- END -->
 
