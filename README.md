@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Waking up this morning was an eye-opening experience.
+> What do prisoners use to call each other? Cell phones.
 
 <!-- END -->
 
