@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two dyslexics walk into a bra.
+> Waking up this morning was an eye-opening experience.
 
 <!-- END -->
 
