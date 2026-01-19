@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are ghosts bad liars? Because you can see right through them!
+> I couldn't get a reservation at the library. They were completely booked.
 
 <!-- END -->
 
