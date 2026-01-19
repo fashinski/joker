@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of award did the dentist receive? A little plaque.
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
