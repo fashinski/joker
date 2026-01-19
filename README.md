@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Which is the fastest growing city in the world? Dublin'
+> What is the tallest building in the world? The library â itâs got the most stories!
 
 <!-- END -->
 
