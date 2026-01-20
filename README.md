@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the knife dress up in a suit? Because it wanted to look sharp
+> "I'll call you later." Don't call me later, call me Dad.
 
 <!-- END -->
 
