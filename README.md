@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "I'll call you later." Don't call me later, call me Dad.
+> What do you get when you cross a pig and a pineapple? A porky pine
 
 <!-- END -->
 
