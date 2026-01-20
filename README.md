@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Some people eat light bulbs. They say it's a nice light snack.
+> What did the piece of bread say to the knife? Butter me up.
 
 <!-- END -->
 
