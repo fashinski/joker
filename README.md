@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What time did the man go to the dentist? Tooth hurt-y.
+> They tried to make a diamond shaped like a duck. It quacked under the pressure.
 
 <!-- END -->
 
