@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the sentence fail the driving test? It never came to a full stop.
+> Did you know that protons have mass? I didn't even know they were catholic.
 
 <!-- END -->
 
