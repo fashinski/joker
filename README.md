@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the scarf say to the hat? You go on ahead, I am going to hang around a bit longer.
+> Why did the knife dress up in a suit? Because it wanted to look sharp
 
 <!-- END -->
 
