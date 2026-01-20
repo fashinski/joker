@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call two barracuda fish?  A Pairacuda!
+> I used to hate facial hair, but then it grew on me.
 
 <!-- END -->
 
