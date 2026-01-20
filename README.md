@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I boiled a funny bone last night and had a laughing stock
+> Why did the kid throw the clock out the window? He wanted to see time fly!
 
 <!-- END -->
 
