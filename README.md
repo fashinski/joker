@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I tried to milk a cow today, but was unsuccessful. Udder failure.
+> Why does Superman get invited to dinners? Because he is a Supperhero.
 
 <!-- END -->
 
