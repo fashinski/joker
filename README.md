@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do bees go to the bathroom?  The BP station.
+> What's the worst thing about ancient history class? The teachers tend to Babylon.
 
 <!-- END -->
 
