@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What lies at the bottom of the ocean and twitches? A nervous wreck.
+> How do you get two whales in a car? Start in England and drive West.
 
 <!-- END -->
 
