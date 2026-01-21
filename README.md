@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I've started telling everyone about the benefits of eating dried grapes. It's all about raisin awareness.
+> I went to the store to pick up eight cans of sprite... when I got home I realized I'd only picked seven up
 
 <!-- END -->
 
