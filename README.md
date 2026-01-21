@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a clock do when it's hungry? It goes back four seconds!
+> Why don't eggs tell jokes? They'd crack each other up
 
 <!-- END -->
 
