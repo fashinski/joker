@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The first time I got a universal remote control I thought to myself, "This changes everything"
+> What does a clock do when it's hungry? It goes back four seconds!
 
 <!-- END -->
 
