@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I think circles are pointless.
+> I tried to milk a cow today, but was unsuccessful. Udder failure.
 
 <!-- END -->
 
