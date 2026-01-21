@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the worst thing about ancient history class? The teachers tend to Babylon.
+> I accidentally took my cats meds last night. Donât ask meow.
 
 <!-- END -->
 
