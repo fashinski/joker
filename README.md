@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was wondering why the frisbee was getting bigger, then it hit me.
+> I've got a joke about vegetables for you... but it's a bit corny.
 
 <!-- END -->
 
