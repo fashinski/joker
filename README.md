@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I wish I could clean mirrors for a living. It's just something I can see myself doing.
+> What do you call two guys hanging out by your window? Kurt & Rod.
 
 <!-- END -->
 
