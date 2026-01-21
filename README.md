@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a dictionary on drugs? High definition.
+> If I could name myself after any Egyptian god, I'd be Set.
 
 <!-- END -->
 
