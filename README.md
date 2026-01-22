@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The rotation of earth really makes my day.
+> My boss told me to attach two pieces of wood together... I totally nailed it!
 
 <!-- END -->
 
