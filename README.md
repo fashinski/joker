@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to attach two pieces of wood together... I totally nailed it!
+> Parallel lines have so much in common. Itâs a shame theyâll never meet.
 
 <!-- END -->
 
