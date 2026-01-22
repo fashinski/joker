@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the fish say when it swam into a wall? Damn!
+> I don't trust sushi, there's something fishy about it.
 
 <!-- END -->
 
