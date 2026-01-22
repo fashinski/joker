@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> As I suspected, someone has been adding soil to my garden. The plot thickens.
+> Where did Captain Hook get his hook? From a second hand store.
 
 <!-- END -->
 
