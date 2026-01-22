@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a group of disorganized cats? A cat-tastrophe.
+> What do you call a fish with no eyes? A fsh.
 
 <!-- END -->
 
