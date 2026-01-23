@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs brown and sounds like a bell? Dung!
+> Why is the ocean always blue? Because the shore never waves back.
 
 <!-- END -->
 
