@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How did the hipster burn the roof of his mouth? He ate the pizza before it was cool.
+> I bought shoes from a drug dealer once. I don't know what he laced them with, but I was tripping all day.
 
 <!-- END -->
 
