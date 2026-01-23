@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Yesterday I confused the words "jacuzzi" and "yakuza". Now I'm in hot water with the Japanese mafia.
+> Did you hear that the police have a warrant out on a midget psychic ripping people off? It reads âSmall medium at large.â
 
 <!-- END -->
 
