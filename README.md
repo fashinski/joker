@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I cut my finger cutting cheese. I know it may be a cheesy story but I feel grate now.
+> What do you call an elephant that doesnât matter? An irrelephant.
 
 <!-- END -->
 
