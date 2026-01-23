@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a French skeleton say hello? Bone-jour.
+> What creature is smarter than a talking parrot? A spelling bee.
 
 <!-- END -->
 
