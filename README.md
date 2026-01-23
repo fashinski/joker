@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Never take advice from electrons. They are always negative.
+> Slept like a log last night â¦ woke up in the fireplace.
 
 <!-- END -->
 
