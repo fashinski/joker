@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Animal Fact #25: Most bobcats are not named bob.
+> I wanted to be a tailor but I didn't suit the job
 
 <!-- END -->
 
