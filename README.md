@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is Peter Pan always flying? Because he Neverlands.
+> Did you hear about the guy whose whole left side was cut off? He's all right now.
 
 <!-- END -->
 
