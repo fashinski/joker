@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What happens to a frog's car when it breaks down? It gets toad.
+> I heard there was a new store called Moderation. They have everything there
 
 <!-- END -->
 
