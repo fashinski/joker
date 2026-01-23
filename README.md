@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I once lost a banana at court but then I appealed. 
+> When do doctors get angry? When they run out of patients.
 
 <!-- END -->
 
