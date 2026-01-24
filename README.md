@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Do I enjoy making courthouse puns? Guilty
+> Our wedding was so beautiful, even the cake was in tiers.
 
 <!-- END -->
 
