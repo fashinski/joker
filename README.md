@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Our wedding was so beautiful, even the cake was in tiers.
+> My boss told me to attach two pieces of wood together... I totally nailed it!
 
 <!-- END -->
 
