@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a criminal going down the stairs? Condescending
+> What do you do when your bunny gets wet? You get your hare dryer.
 
 <!-- END -->
 
