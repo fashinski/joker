@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did Michael Jackson name his denim store?    Billy Jeans!
+> What do you call a fashionable lawn statue with an excellent sense of rhythmn? A metro-gnome
 
 <!-- END -->
 
