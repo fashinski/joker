@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Someone asked me to name two structures that hold water. I said "Well dam"
+> Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.
 
 <!-- END -->
 
