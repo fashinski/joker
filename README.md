@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a witch's favorite subject in school? Spelling!
+> Which side of the chicken has more feathers? The outside.
 
 <!-- END -->
 
