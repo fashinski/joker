@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Chances are if you' ve seen one shopping center, you've seen a mall.
+> Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy.
 
 <!-- END -->
 
