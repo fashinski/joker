@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Egyptians claimed to invent the guitar, but they were such lyres.ï»¿
+> Why do mathematicians hate the U.S.? Because it's indivisible.
 
 <!-- END -->
 
