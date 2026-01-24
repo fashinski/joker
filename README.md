@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I won an argument with a weather forecaster once. His logic was cloudy...
+> Why are basketball players messy eaters? Because they are always dribbling.
 
 <!-- END -->
 
