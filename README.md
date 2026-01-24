@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Leather is great for sneaking around because it's made of hide.
+> When will the little snake arrive? I don't know but he won't be long...
 
 <!-- END -->
 
