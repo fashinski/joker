@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the girl smear peanut butter on the road? To go with the traffic jam.
+> Chances are if you' ve seen one shopping center, you've seen a mall.
 
 <!-- END -->
 
