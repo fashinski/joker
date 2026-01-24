@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is the ocean always blue? Because the shore never waves back.
+> Did you hear about the bread factory burning down? They say the business is toast.
 
 <!-- END -->
 
