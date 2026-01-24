@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the leading cause of dry skin? Towels
+> I won an argument with a weather forecaster once. His logic was cloudy...
 
 <!-- END -->
 
