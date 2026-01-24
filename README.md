@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you fix a damaged jack-o-lantern? You use a pumpkin patch.
+> Thereâs a new type of broom out, itâs sweeping the nation.
 
 <!-- END -->
 
