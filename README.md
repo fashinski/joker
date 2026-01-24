@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the big cat disqualified from the race? Because it was a cheetah.
+> What kind of dinosaur loves to sleep? A stega-snore-us.
 
 <!-- END -->
 
