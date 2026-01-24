@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.
+> I asked my date to go to the gym the other day. They never showed up. That's when I knew we wouldn't work out.
 
 <!-- END -->
 
