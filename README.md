@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> what happens when you cross a sheep with a kangaroo ? A woolly jumper!
+> I used to be addicted to the hokey pokey, but I turned myself around.
 
 <!-- END -->
 
