@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When will the little snake arrive? I don't know but he won't be long...
+> Why was the big cat disqualified from the race? Because it was a cheetah.
 
 <!-- END -->
 
