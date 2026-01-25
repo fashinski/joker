@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.
+> A termite walks into a bar and asks âIs the bar tender here?â
 
 <!-- END -->
 
