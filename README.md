@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to a book store and asked the saleswoman where the Self Help section was, she said if she told me it would defeat the purpose.
+> I was at the library and asked if they have any books on "paranoia", the librarian replied, "yes, they are right behind you"
 
 <!-- END -->
 
