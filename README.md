@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the cheese who saved the world? It was Legend-dairy!
+> I tried to milk a cow today, but was unsuccessful. Udder failure.
 
 <!-- END -->
 
