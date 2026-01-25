@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I tried to milk a cow today, but was unsuccessful. Udder failure.
+> Why did the sentence fail the driving test? It never came to a full stop.
 
 <!-- END -->
 
