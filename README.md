@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's blue and not very heavy?  Light blue.
+> Did you know that ghosts call their true love their ghoul-friend?
 
 <!-- END -->
 
