@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I knew a guy who collected candy canes, they were all in mint condition
+> We all know where the Big Apple is but does anyone know where the Minneapolis?
 
 <!-- END -->
 
