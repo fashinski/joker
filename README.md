@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the girl smear peanut butter on the road? To go with the traffic jam.
+> What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.
 
 <!-- END -->
 
