@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you know if thereâs an elephant under your bed? Your head hits the ceiling!
+> Is there a hole in your shoe? Noâ¦ Then howâd you get your foot in it?
 
 <!-- END -->
 
