@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the least spoken language in the world?
-Sign Language
+> I've got a joke about vegetables for you... but it's a bit corny.
 
 <!-- END -->
 
