@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do you learn to make banana splits? At sundae school.
+> To the guy who invented zero... thanks for nothing.
 
 <!-- END -->
 
