@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Doctor you've got you help me, I'm addicted to twitter. Doctor: I don't follow you.
+> I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.
 
 <!-- END -->
 
