@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do choirs keep buckets handy? So they can carry their tune
+> Thereâs a new type of broom out, itâs sweeping the nation.
 
 <!-- END -->
 
