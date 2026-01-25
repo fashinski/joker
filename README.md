@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a scientist freshen their breath? With experi-mints!
+> Sometimes I tuck my knees into my chest and lean forward.  Thatâs just how I roll.
 
 <!-- END -->
 
