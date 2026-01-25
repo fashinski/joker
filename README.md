@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement
+> What did the judge say to the dentist? Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
 
 <!-- END -->
 
