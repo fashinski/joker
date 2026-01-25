@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get if you put a duck in a cement mixer? Quacks in the pavement.
+> I had a dream that I was a muffler last night. I woke up exhausted!
 
 <!-- END -->
 
