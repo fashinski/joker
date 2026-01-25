@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's brown and sticky? A stick.
+> I went to a Foo Fighters Concert once... It was Everlong...
 
 <!-- END -->
 
