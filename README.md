@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you know that ghosts call their true love their ghoul-friend?
+> Slept like a log last night â¦ woke up in the fireplace.
 
 <!-- END -->
 
