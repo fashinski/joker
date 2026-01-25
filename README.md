@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I ate a clock yesterday. It was so time consuming.
+> What do you call a monkey in a mine field? A babooooom!
+
 
 <!-- END -->
 
