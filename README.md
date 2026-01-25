@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does Napoleon keep his armies? In his sleevies.
+> Did you hear about the cheese who saved the world? It was Legend-dairy!
 
 <!-- END -->
 
