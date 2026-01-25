@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When will the little snake arrive? I don't know but he won't be long...
+> Guy told me today he did not know what cloning is. I told him, "that makes 2 of us."
 
 <!-- END -->
 
