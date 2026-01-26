@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you get a baby alien to sleep?  You rocket.
+> I went to the doctor today and he told me I had type A blood but it was a type O.
 
 <!-- END -->
 
