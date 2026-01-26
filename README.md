@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When you have a bladder infection, urine trouble.
+> Whatâs E.T. short for? Heâs only got little legs.
 
 <!-- END -->
 
