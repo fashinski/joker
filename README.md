@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Thereâs a new type of broom out, itâs sweeping the nation.
+> Why was the shirt happy to hang around the tank top? Because it was armless
 
 <!-- END -->
 
