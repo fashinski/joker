@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the least spoken language in the world?
-Sign Language
+> What do you call two barracuda fish?  A Pairacuda!
 
 <!-- END -->
 
