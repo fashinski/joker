@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What biscuit does a short person like? Shortbread. 
+> How was the snow globe feeling after the storm? A little shaken.
 
 <!-- END -->
 
