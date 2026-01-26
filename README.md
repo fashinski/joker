@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call two barracuda fish?  A Pairacuda!
+> Why do ducks make great detectives? They always quack the case.
 
 <!-- END -->
 
