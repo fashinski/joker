@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What animal is always at a game of cricket? A bat.
+> I was thinking about moving to Moscow but there is no point Russian into things.
 
 <!-- END -->
 
