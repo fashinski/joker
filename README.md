@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They say Dodger Stadium can hold up to fifty-six thousand people, but that is just a ballpark figure.
+> I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it.
 
 <!-- END -->
 
