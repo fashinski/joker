@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The word queue is ironic. It's just q with a bunch of silent letters waiting in line.
+> So, I heard this pun about cows, but itâs kinda offensive so I wonât say it. I donât want there to be any beef between us. 
 
 <!-- END -->
 
