@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the ocean say to the beach? Thanks for all the sediment.
+> âPut the cat outâ â¦ âI didnât realize it was on fire
 
 <!-- END -->
 
