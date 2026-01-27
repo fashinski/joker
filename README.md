@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!
+> Why are oranges the smartest fruit? Because they are made to concentrate. 
 
 <!-- END -->
 
