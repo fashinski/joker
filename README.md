@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Hear about the new restaurant called Karma? Thereâs no menu: You get what you deserve.
+> My boss told me to attach two pieces of wood together... I totally nailed it!
 
 <!-- END -->
 
