@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Can I watch the TV? Dad: Yes, but donât turn it on.
+> Where do you learn to make banana splits? At sundae school.
 
 <!-- END -->
 
