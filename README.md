@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "I'm sorry." "Hi sorry, I'm dad"
+> Did you hear that David lost his ID in prague? Now we just have to call him Dav.
 
 <!-- END -->
 
