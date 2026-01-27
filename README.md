@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of pants do ghosts wear? Boo jeans.
+> Where do rabbits go after they get married? On a bunny-moon.
 
 <!-- END -->
 
