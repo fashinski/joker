@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do rabbits go after they get married? On a bunny-moon.
+> How do you make Lady Gaga cry? Poker face. 
 
 <!-- END -->
 
