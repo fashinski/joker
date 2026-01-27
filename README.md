@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Writing with a broken pencil is pointless.
+> Did you hear about the cheese who saved the world? It was Legend-dairy!
 
 <!-- END -->
 
