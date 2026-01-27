@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear the one about the giant pickle?  He was kind of a big dill.
+> A man tried to sell me a coffin today. I told him that's the last thing I need.
 
 <!-- END -->
 
