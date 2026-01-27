@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> âPut the cat outâ â¦ âI didnât realize it was on fire
+> I met this girl on a dating site and, I don't know, we just clicked.
 
 <!-- END -->
 
