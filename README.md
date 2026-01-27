@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are snake races so exciting? They're always neck and neck.
+> Can I watch the TV? Dad: Yes, but donât turn it on.
 
 <!-- END -->
 
