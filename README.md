@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the bread factory burning down? They say the business is toast.
+> Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 <!-- END -->
 
