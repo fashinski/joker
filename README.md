@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I burned 2000 calories today, I left my food in the oven for too long.
+> What did the ocean say to the beach? Thanks for all the sediment.
 
 <!-- END -->
 
