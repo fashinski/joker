@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.
+> A farmer had 297 cows, when he rounded them up, he found he had 300
 
 <!-- END -->
 
