@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the big cat disqualified from the race? Because it was a cheetah.
+> Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.
 
 <!-- END -->
 
