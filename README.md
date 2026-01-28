@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do cats write notes?
-Scratch Paper!
+> I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.
 
 <!-- END -->
 
