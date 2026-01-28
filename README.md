@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Some people say that I never got over my obsession with Phil Collins.
-But take a look at me now.
+> Hear about the new restaurant called Karma? Thereâs no menu: You get what you deserve.
 
 <!-- END -->
 
