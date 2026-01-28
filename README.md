@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the beaver say to the tree? It's been nice gnawing you.
+> How do you get two whales in a car? Start in England and drive West.
 
 <!-- END -->
 
