@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was going to learn how to juggle, but I didn't have the balls.
+> Iâve got this disease where I canât stop making airport puns. The doctor says it terminal.
 
 <!-- END -->
 
