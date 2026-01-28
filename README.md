@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you do when your bunny gets wet? You get your hare dryer.
+> I was going to learn how to juggle, but I didn't have the balls.
 
 <!-- END -->
 
