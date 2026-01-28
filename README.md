@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a girl between two posts? Annette.
+> How do you get a baby alien to sleep?  You rocket.
 
 <!-- END -->
 
