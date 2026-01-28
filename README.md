@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a scientist freshen their breath? With experi-mints!
+> Why was the big cat disqualified from the race? Because it was a cheetah.
 
 <!-- END -->
 
