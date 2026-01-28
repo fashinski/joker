@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's brown and sticky? A stick.
+> Why are ghosts bad liars? Because you can see right through them!
 
 <!-- END -->
 
