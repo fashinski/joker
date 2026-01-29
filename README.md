@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whats a penguins favorite relative? Aunt Arctica.
+> I used to be addicted to the hokey pokey, but I turned myself around.
 
 <!-- END -->
 
