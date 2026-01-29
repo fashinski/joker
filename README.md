@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you ever seen fruit preserves being made? It's jarring.
+> Why are oranges the smartest fruit? Because they are made to concentrate. 
 
 <!-- END -->
 
